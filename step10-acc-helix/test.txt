@@ -1,0 +1,13 @@
+3az2.dssp_G_13.dssp :
+66.25 
+
+3az2.dssp_H_9.dssp :
+55.688 
+
+3az2.dssp_G_2.dssp :
+83.667 
+
+3az2.dssp_H_3.dssp :
+68.286 
+
+3az2.dssp_H_11.dssp :

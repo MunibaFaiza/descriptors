@@ -1,0 +1,1413 @@
+3x36.dssp_H_8.dssp :
+41.409 
+
+3cs6.dssp_H_9.dssp :
+48.963 
+
+1txi.dssp_H_8.dssp :
+42.955 
+
+2ham.dssp_H_3.dssp :
+28.45 
+
+2hb7.dssp_H_11.dssp :
+53.429 
+
+3tkc.dssp_H_10.dssp :
+55.571 
+
+3az1.dssp_H_10.dssp :
+52.0 
+
+3x36.dssp_H_10.dssp :
+57.0 
+
+2har.dssp_H_1.dssp :
+58.471 
+
+1s19.dssp_H_9.dssp :
+50.577 
+
+3aur.dssp_H_2.dssp :
+70.571 
+
+3b0t.dssp_H_3.dssp :
+30.714 
+
+3a40.dssp_H_9.dssp :
+49.769 
+
+3a2j.dssp_H_2.dssp :
+72.857 
+
+2has.dssp_H_5.dssp :
+28.0 
+
+3cs6.dssp_H_1.dssp :
+59.882 
+
+1txi.dssp_H_1.dssp :
+58.471 
+
+3a40.dssp_H_3.dssp :
+28.75 
+
+2hb7.dssp_H_8.dssp :
+42.136 
+
+3a2j.dssp_H_3.dssp :
+24.947 
+
+5v39.dssp_H_1.dssp :
+60.765 
+
+1ie8.dssp_H_7.dssp :
+12.083 
+
+5gt4.dssp_H_1.dssp :
+59.471 
+
+2ham.dssp_H_2.dssp :
+68.0 
+
+3cs6.dssp_H_11.dssp :
+54.143 
+
+5ysy.dssp_H_9.dssp :
+49.667 
+
+2har.dssp_H_4.dssp :
+27.368 
+
+1txi.dssp_H_5.dssp :
+29.0 
+
+3wwr.dssp_H_9.dssp :
+51.714 
+
+5yt2.dssp_H_8.dssp :
+40.955 
+
+3x31.dssp_H_11.dssp :
+56.0 
+
+5yt2.dssp_H_5.dssp :
+25.6 
+
+3az2.dssp_H_9.dssp :
+50.259 
+
+1ie9.dssp_H_9.dssp :
+48.654 
+
+5ysy.dssp_H_6.dssp :
+47.235 
+
+3ogt.dssp_H_1.dssp :
+63.824 
+
+3az3.dssp_H_5.dssp :
+30.6 
+
+3w0c.dssp_H_3.dssp :
+29.15 
+
+3wgp.dssp_H_10.dssp :
+64.25 
+
+3w0a.dssp_H_2.dssp :
+66.857 
+
+2hb7.dssp_H_4.dssp :
+27.579 
+
+2ham.dssp_H_11.dssp :
+53.0 
+
+3w0c.dssp_H_8.dssp :
+44.091 
+
+3a2i.dssp_H_7.dssp :
+11.75 
+
+3a2j.dssp_H_4.dssp :
+27.632 
+
+3tkc.dssp_H_4.dssp :
+28.263 
+
+2har.dssp_H_10.dssp :
+58.75 
+
+3w0y.dssp_H_6.dssp :
+49.8 
+
+5gt4.dssp_H_3.dssp :
+29.2 
+
+1db1.dssp_H_8.dssp :
+44.682 
+
+3b0t.dssp_H_4.dssp :
+27.105 
+
+1db1.dssp_H_3.dssp :
+29.8 
+
+5gt4.dssp_H_4.dssp :
+28.789 
+
+5yt2.dssp_H_4.dssp :
+28.211 
+
+3wwr.dssp_H_10.dssp :
+58.25 
+
+3x36.dssp_H_1.dssp :
+59.647 
+
+3w0y.dssp_H_2.dssp :
+66.0 
+
+1txi.dssp_H_7.dssp :
+12.417 
+
+3a78.dssp_H_11.dssp :
+51.571 
+
+5v39.dssp_H_7.dssp :
+12.083 
+
+3w0a.dssp_H_1.dssp :
+60.235 
+
+1ie8.dssp_H_1.dssp :
+58.824 
+
+3tkc.dssp_H_2.dssp :
+70.286 
+
+4ite.dssp_H_2.dssp :
+73.0 
+
+3a3z.dssp_H_8.dssp :
+43.091 
+
+3w0c.dssp_H_7.dssp :
+12.083 
+
+3wgp.dssp_H_7.dssp :
+11.5 
+
+4ite.dssp_H_9.dssp :
+54.929 
+
+3vhw.dssp_H_3.dssp :
+29.6 
+
+1ie9.dssp_H_3.dssp :
+29.35 
+
+3auq.dssp_H_9.dssp :
+51.577 
+
+4itf.dssp_H_1.dssp :
+58.294 
+
+2has.dssp_H_7.dssp :
+12.25 
+
+3tkc.dssp_H_9.dssp :
+50.222 
+
+3w0c.dssp_H_1.dssp :
+57.882 
+
+3aur.dssp_H_5.dssp :
+27.4 
+
+3auq.dssp_H_1.dssp :
+62.294 
+
+3b0t.dssp_H_2.dssp :
+71.143 
+
+3p8x.dssp_H_6.dssp :
+46.2 
+
+3ax8.dssp_H_9.dssp :
+50.963 
+
+3w0y.dssp_H_10.dssp :
+54.286 
+
+1s0z.dssp_H_2.dssp :
+67.571 
+
+3w0c.dssp_H_9.dssp :
+50.885 
+
+3x36.dssp_H_11.dssp :
+55.286 
+
+2ham.dssp_H_6.dssp :
+48.267 
+
+3x31.dssp_H_8.dssp :
+41.0 
+
+3x31.dssp_H_10.dssp :
+65.0 
+
+3wgp.dssp_H_8.dssp :
+42.955 
+
+3ogt.dssp_H_5.dssp :
+31.6 
+
+5v39.dssp_H_4.dssp :
+28.05 
+
+3a3z.dssp_H_1.dssp :
+58.706 
+
+3wwr.dssp_H_4.dssp :
+28.632 
+
+2hb7.dssp_H_9.dssp :
+52.607 
+
+3a40.dssp_H_4.dssp :
+27.632 
+
+1txi.dssp_H_9.dssp :
+50.667 
+
+3az2.dssp_H_3.dssp :
+29.65 
+
+1db1.dssp_H_7.dssp :
+12.5 
+
+2hb8.dssp_H_9.dssp :
+49.407 
+
+3wgp.dssp_H_5.dssp :
+26.8 
+
+2hb8.dssp_H_2.dssp :
+68.286 
+
+3w0a.dssp_H_3.dssp :
+29.45 
+
+3cs4.dssp_H_2.dssp :
+68.0 
+
+1ie9.dssp_H_6.dssp :
+46.867 
+
+5gt4.dssp_H_11.dssp :
+54.429 
+
+3a78.dssp_H_6.dssp :
+54.938 
+
+3x36.dssp_H_2.dssp :
+54.75 
+
+3p8x.dssp_H_1.dssp :
+55.176 
+
+3tkc.dssp_H_5.dssp :
+32.0 
+
+2hb7.dssp_H_7.dssp :
+12.333 
+
+3wwr.dssp_H_7.dssp :
+12.167 
+
+3p8x.dssp_H_9.dssp :
+48.963 
+
+5yt2.dssp_H_6.dssp :
+47.353 
+
+3a2i.dssp_H_3.dssp :
+24.368 
+
+3p8x.dssp_H_2.dssp :
+67.571 
+
+3aur.dssp_H_8.dssp :
+41.591 
+
+4g2i.dssp_H_4.dssp :
+27.316 
+
+2hb7.dssp_H_5.dssp :
+27.4 
+
+2har.dssp_H_8.dssp :
+40.773 
+
+2hb7.dssp_H_10.dssp :
+62.0 
+
+5gt4.dssp_H_5.dssp :
+27.2 
+
+3a2i.dssp_H_5.dssp :
+27.6 
+
+4g2i.dssp_H_2.dssp :
+66.286 
+
+2has.dssp_H_10.dssp :
+61.5 
+
+2has.dssp_H_11.dssp :
+53.571 
+
+3ogt.dssp_H_2.dssp :
+70.429 
+
+3ax8.dssp_H_8.dssp :
+41.864 
+
+3kpz.dssp_H_2.dssp :
+65.143 
+
+3auq.dssp_H_10.dssp :
+56.143 
+
+5v39.dssp_H_2.dssp :
+73.429 
+
+3cs4.dssp_H_8.dssp :
+43.227 
+
+3a3z.dssp_H_7.dssp :
+12.25 
+
+3a78.dssp_H_9.dssp :
+49.148 
+
+3x36.dssp_H_7.dssp :
+12.417 
+
+3cs4.dssp_H_4.dssp :
+27.316 
+
+3az3.dssp_H_1.dssp :
+57.941 
+
+4g2i.dssp_H_10.dssp :
+54.429 
+
+3a78.dssp_H_5.dssp :
+29.4 
+
+3a40.dssp_H_10.dssp :
+62.0 
+
+4itf.dssp_H_8.dssp :
+42.227 
+
+3az2.dssp_H_6.dssp :
+55.688 
+
+3ogt.dssp_H_9.dssp :
+50.148 
+
+3m7r.dssp_H_4.dssp :
+27.263 
+
+2hb8.dssp_H_8.dssp :
+41.909 
+
+4itf.dssp_H_5.dssp :
+28.4 
+
+2ham.dssp_H_10.dssp :
+60.5 
+
+3x31.dssp_H_9.dssp :
+49.296 
+
+1ie8.dssp_H_10.dssp :
+54.714 
+
+1ie8.dssp_H_5.dssp :
+29.0 
+
+5v39.dssp_H_3.dssp :
+30.45 
+
+3p8x.dssp_H_3.dssp :
+27.95 
+
+3auq.dssp_H_8.dssp :
+43.227 
+
+3aur.dssp_H_6.dssp :
+48.529 
+
+2ham.dssp_H_7.dssp :
+12.083 
+
+3vhw.dssp_H_8.dssp :
+41.773 
+
+3m7r.dssp_H_2.dssp :
+64.857 
+
+2has.dssp_H_1.dssp :
+59.941 
+
+3az1.dssp_H_4.dssp :
+27.6 
+
+3auq.dssp_H_4.dssp :
+30.0 
+
+3az3.dssp_H_7.dssp :
+12.417 
+
+2har.dssp_H_2.dssp :
+68.857 
+
+3wwr.dssp_H_2.dssp :
+71.714 
+
+3az3.dssp_H_2.dssp :
+68.429 
+
+3a2i.dssp_H_4.dssp :
+28.737 
+
+3p8x.dssp_H_7.dssp :
+11.833 
+
+3kpz.dssp_H_5.dssp :
+28.4 
+
+3x31.dssp_H_4.dssp :
+28.526 
+
+4itf.dssp_H_3.dssp :
+27.8 
+
+3aur.dssp_H_9.dssp :
+49.538 
+
+2hb7.dssp_H_3.dssp :
+28.05 
+
+2ham.dssp_H_9.dssp :
+52.4 
+
+3kpz.dssp_H_4.dssp :
+27.737 
+
+3wwr.dssp_H_8.dssp :
+41.682 
+
+2har.dssp_H_5.dssp :
+27.4 
+
+3x36.dssp_H_6.dssp :
+49.25 
+
+3a78.dssp_H_8.dssp :
+42.545 
+
+3w0y.dssp_H_9.dssp :
+50.444 
+
+5gt4.dssp_H_9.dssp :
+49.148 
+
+5v39.dssp_H_9.dssp :
+50.269 
+
+4g2i.dssp_H_7.dssp :
+12.25 
+
+3tkc.dssp_H_3.dssp :
+29.4 
+
+4g2i.dssp_H_1.dssp :
+55.647 
+
+5gt4.dssp_H_6.dssp :
+48.625 
+
+3vhw.dssp_H_1.dssp :
+58.588 
+
+3cs4.dssp_H_9.dssp :
+49.185 
+
+1db1.dssp_H_6.dssp :
+55.312 
+
+3m7r.dssp_H_10.dssp :
+60.25 
+
+3b0t.dssp_H_1.dssp :
+58.059 
+
+3wwr.dssp_H_6.dssp :
+47.133 
+
+1ie8.dssp_H_9.dssp :
+51.444 
+
+3x31.dssp_H_7.dssp :
+13.0 
+
+3a78.dssp_H_7.dssp :
+13.0 
+
+4g2i.dssp_H_8.dssp :
+44.136 
+
+5gt4.dssp_H_10.dssp :
+55.75 
+
+5gt4.dssp_H_7.dssp :
+12.417 
+
+3ogt.dssp_H_4.dssp :
+28.211 
+
+3az1.dssp_H_5.dssp :
+28.2 
+
+3az1.dssp_H_3.dssp :
+29.15 
+
+4itf.dssp_H_6.dssp :
+50.059 
+
+3a78.dssp_H_3.dssp :
+28.0 
+
+1s0z.dssp_H_4.dssp :
+28.053 
+
+1s0z.dssp_H_6.dssp :
+49.733 
+
+3m7r.dssp_H_7.dssp :
+12.333 
+
+1s0z.dssp_H_7.dssp :
+11.917 
+
+3a40.dssp_H_2.dssp :
+70.571 
+
+5gt4.dssp_H_2.dssp :
+73.0 
+
+3cs4.dssp_H_5.dssp :
+27.4 
+
+3az1.dssp_H_2.dssp :
+67.143 
+
+4ite.dssp_H_8.dssp :
+39.955 
+
+3ogt.dssp_H_7.dssp :
+12.583 
+
+3x31.dssp_H_2.dssp :
+68.0 
+
+3x31.dssp_H_5.dssp :
+30.2 
+
+3az3.dssp_H_8.dssp :
+44.864 
+
+3a2j.dssp_H_5.dssp :
+28.6 
+
+3wgp.dssp_H_3.dssp :
+27.85 
+
+3az1.dssp_H_6.dssp :
+49.2 
+
+1db1.dssp_H_9.dssp :
+51.37 
+
+3wgp.dssp_H_1.dssp :
+55.118 
+
+1s19.dssp_H_4.dssp :
+28.526 
+
+3ax8.dssp_H_7.dssp :
+11.75 
+
+2hb7.dssp_H_2.dssp :
+69.0 
+
+2hb7.dssp_H_1.dssp :
+58.824 
+
+1db1.dssp_H_2.dssp :
+66.571 
+
+3a2j.dssp_H_1.dssp :
+62.118 
+
+5yt2.dssp_H_1.dssp :
+57.235 
+
+2hb8.dssp_H_6.dssp :
+48.733 
+
+2has.dssp_H_8.dssp :
+41.273 
+
+2hb8.dssp_H_7.dssp :
+12.333 
+
+2hb7.dssp_H_6.dssp :
+49.267 
+
+3vhw.dssp_H_10.dssp :
+54.5 
+
+3x31.dssp_H_1.dssp :
+60.412 
+
+3b0t.dssp_H_8.dssp :
+42.818 
+
+3a78.dssp_H_4.dssp :
+26.842 
+
+3a40.dssp_H_7.dssp :
+12.25 
+
+5yt2.dssp_H_11.dssp :
+54.571 
+
+3b0t.dssp_H_9.dssp :
+47.962 
+
+3wwr.dssp_H_5.dssp :
+29.0 
+
+3cs6.dssp_H_7.dssp :
+12.0 
+
+1s0z.dssp_H_9.dssp :
+50.615 
+
+3cs6.dssp_H_8.dssp :
+42.5 
+
+2ham.dssp_H_5.dssp :
+26.8 
+
+3x31.dssp_H_3.dssp :
+28.5 
+
+5yt2.dssp_H_3.dssp :
+27.75 
+
+3w0a.dssp_H_11.dssp :
+53.143 
+
+5ysy.dssp_H_10.dssp :
+57.0 
+
+3a2j.dssp_H_6.dssp :
+49.2 
+
+3aur.dssp_H_4.dssp :
+27.368 
+
+1s0z.dssp_H_10.dssp :
+55.286 
+
+3auq.dssp_H_5.dssp :
+26.8 
+
+3a2i.dssp_H_2.dssp :
+73.143 
+
+3a2i.dssp_H_10.dssp :
+55.857 
+
+4ite.dssp_H_5.dssp :
+27.6 
+
+3wgp.dssp_H_6.dssp :
+49.667 
+
+1s19.dssp_H_5.dssp :
+29.0 
+
+3a3z.dssp_H_6.dssp :
+51.467 
+
+3cs6.dssp_H_4.dssp :
+27.421 
+
+1s19.dssp_H_2.dssp :
+68.571 
+
+3az2.dssp_H_5.dssp :
+28.6 
+
+4itf.dssp_H_10.dssp :
+55.286 
+
+1ie9.dssp_H_2.dssp :
+73.571 
+
+3aur.dssp_H_10.dssp :
+56.0 
+
+3cs6.dssp_H_10.dssp :
+63.5 
+
+3vhw.dssp_H_4.dssp :
+28.053 
+
+3az1.dssp_H_8.dssp :
+43.364 
+
+3a2i.dssp_H_8.dssp :
+43.682 
+
+3a2j.dssp_H_9.dssp :
+49.704 
+
+3ax8.dssp_H_4.dssp :
+28.579 
+
+5gt4.dssp_H_8.dssp :
+42.5 
+
+1s19.dssp_H_8.dssp :
+43.409 
+
+3ogt.dssp_H_10.dssp :
+55.286 
+
+3b0t.dssp_H_10.dssp :
+58.5 
+
+3cs4.dssp_H_11.dssp :
+53.857 
+
+3a3z.dssp_H_9.dssp :
+52.846 
+
+3vhw.dssp_H_6.dssp :
+43.133 
+
+2hb8.dssp_H_4.dssp :
+27.474 
+
+5ysy.dssp_H_8.dssp :
+41.227 
+
+3wgp.dssp_H_2.dssp :
+69.429 
+
+3cs4.dssp_H_6.dssp :
+50.533 
+
+3az2.dssp_H_8.dssp :
+43.364 
+
+1s0z.dssp_H_1.dssp :
+58.529 
+
+1ie9.dssp_H_5.dssp :
+30.0 
+
+5ysy.dssp_H_11.dssp :
+53.286 
+
+4ite.dssp_H_4.dssp :
+28.105 
+
+3w0c.dssp_H_6.dssp :
+54.625 
+
+3wwr.dssp_H_11.dssp :
+54.143 
+
+3m7r.dssp_H_6.dssp :
+53.75 
+
+3m7r.dssp_H_1.dssp :
+57.588 
+
+3auq.dssp_H_3.dssp :
+29.1 
+
+3cs4.dssp_H_3.dssp :
+28.3 
+
+3w0y.dssp_H_5.dssp :
+27.2 
+
+3kpz.dssp_H_8.dssp :
+42.364 
+
+3az3.dssp_H_6.dssp :
+55.5 
+
+3w0c.dssp_H_10.dssp :
+52.857 
+
+3az2.dssp_H_4.dssp :
+27.8 
+
+5v39.dssp_H_5.dssp :
+26.6 
+
+2has.dssp_H_4.dssp :
+27.526 
+
+3p8x.dssp_H_8.dssp :
+41.909 
+
+3az2.dssp_H_7.dssp :
+12.083 
+
+1s19.dssp_H_10.dssp :
+55.429 
+
+3w0a.dssp_H_4.dssp :
+27.65 
+
+3a3z.dssp_H_2.dssp :
+71.0 
+
+1ie9.dssp_H_7.dssp :
+12.333 
+
+3x31.dssp_H_6.dssp :
+49.062 
+
+2hb8.dssp_H_10.dssp :
+54.143 
+
+2har.dssp_H_7.dssp :
+12.25 
+
+3aur.dssp_H_3.dssp :
+28.1 
+
+1txi.dssp_H_4.dssp :
+27.947 
+
+3m7r.dssp_H_9.dssp :
+49.222 
+
+3tkc.dssp_H_6.dssp :
+50.6 
+
+3ax8.dssp_H_2.dssp :
+76.0 
+
+1ie8.dssp_H_3.dssp :
+28.2 
+
+1s19.dssp_H_1.dssp :
+58.118 
+
+3vhw.dssp_H_9.dssp :
+49.192 
+
+3ogt.dssp_H_8.dssp :
+43.227 
+
+3az1.dssp_H_9.dssp :
+50.519 
+
+5v39.dssp_H_8.dssp :
+49.909 
+
+3ax8.dssp_H_1.dssp :
+59.529 
+
+3x36.dssp_H_9.dssp :
+51.269 
+
+3ax8.dssp_H_3.dssp :
+30.35 
+
+2ham.dssp_H_8.dssp :
+41.0 
+
+3w0a.dssp_H_8.dssp :
+44.364 
+
+3b0t.dssp_H_7.dssp :
+12.083 
+
+2ham.dssp_H_4.dssp :
+27.158 
+
+1txi.dssp_H_10.dssp :
+57.0 
+
+2has.dssp_H_3.dssp :
+28.45 
+
+2has.dssp_H_6.dssp :
+49.067 
+
+3vhw.dssp_H_11.dssp :
+55.143 
+
+1db1.dssp_H_10.dssp :
+56.143 
+
+3a2i.dssp_H_1.dssp :
+61.941 
+
+3auq.dssp_H_6.dssp :
+45.667 
+
+3wgp.dssp_H_9.dssp :
+49.259 
+
+3wgp.dssp_H_11.dssp :
+52.714 
+
+3az1.dssp_H_7.dssp :
+12.25 
+
+3cs4.dssp_H_1.dssp :
+58.765 
+
+3cs6.dssp_H_2.dssp :
+68.0 
+
+3auq.dssp_H_7.dssp :
+12.417 
+
+3w0y.dssp_H_3.dssp :
+29.85 
+
+3a78.dssp_H_1.dssp :
+59.471 
+
+3kpz.dssp_H_3.dssp :
+28.45 
+
+3b0t.dssp_H_5.dssp :
+28.6 
+
+3m7r.dssp_H_3.dssp :
+28.35 
+
+1s19.dssp_H_6.dssp :
+54.625 
+
+1db1.dssp_H_5.dssp :
+29.4 
+
+3a40.dssp_H_8.dssp :
+44.409 
+
+3a3z.dssp_H_5.dssp :
+33.8 
+
+3az3.dssp_H_9.dssp :
+50.741 
+
+4g2i.dssp_H_5.dssp :
+28.0 
+
+1ie8.dssp_H_4.dssp :
+27.316 
+
+5ysy.dssp_H_1.dssp :
+57.059 
+
+1db1.dssp_H_1.dssp :
+57.294 
+
+3a2j.dssp_H_8.dssp :
+42.682 
+
+1txi.dssp_H_6.dssp :
+55.125 
+
+4ite.dssp_H_1.dssp :
+57.882 
+
+3aur.dssp_H_7.dssp :
+12.167 
+
+2hb8.dssp_H_1.dssp :
+57.941 
+
+3w0c.dssp_H_5.dssp :
+26.0 
+
+2har.dssp_H_6.dssp :
+48.333 
+
+3w0y.dssp_H_8.dssp :
+44.455 
+
+4itf.dssp_H_4.dssp :
+29.0 
+
+2ham.dssp_H_1.dssp :
+58.118 
+
+5v39.dssp_H_6.dssp :
+56.25 
+
+4g2i.dssp_H_3.dssp :
+28.45 
+
+4ite.dssp_H_10.dssp :
+56.429 
+
+3b0t.dssp_H_6.dssp :
+49.2 
+
+3a40.dssp_H_1.dssp :
+60.824 
+
+4ite.dssp_H_6.dssp :
+45.2 
+
+3cs4.dssp_H_7.dssp :
+12.167 
+
+3a3z.dssp_H_10.dssp :
+54.0 
+
+3kpz.dssp_H_1.dssp :
+57.529 
+
+4itf.dssp_H_2.dssp :
+74.714 
+
+1ie9.dssp_H_8.dssp :
+42.636 
+
+3ogt.dssp_H_3.dssp :
+29.4 
+
+3wwr.dssp_H_1.dssp :
+55.733 
+
+1s0z.dssp_H_8.dssp :
+42.273 
+
+3b0t.dssp_H_11.dssp :
+52.714 
+
+3az2.dssp_H_1.dssp :
+57.235 
+
+3w0a.dssp_H_6.dssp :
+49.467 
+
+3p8x.dssp_H_10.dssp :
+63.5 
+
+2hb8.dssp_H_5.dssp :
+27.0 
+
+5ysy.dssp_H_3.dssp :
+27.3 
+
+3a3z.dssp_H_4.dssp :
+28.421 
+
+2has.dssp_H_9.dssp :
+52.567 
+
+3w0y.dssp_H_7.dssp :
+12.5 
+
+3m7r.dssp_H_5.dssp :
+28.0 
+
+5yt2.dssp_H_10.dssp :
+57.0 
+
+5ysy.dssp_H_5.dssp :
+25.6 
+
+4itf.dssp_H_9.dssp :
+49.519 
+
+5ysy.dssp_H_7.dssp :
+12.0 
+
+3cs6.dssp_H_5.dssp :
+32.6 
+
+3m7r.dssp_H_8.dssp :
+39.545 
+
+3kpz.dssp_H_6.dssp :
+53.471 
+
+5ysy.dssp_H_4.dssp :
+28.053 
+
+3p8x.dssp_H_5.dssp :
+26.0 
+
+3wgp.dssp_H_4.dssp :
+27.737 
+
+3a3z.dssp_H_3.dssp :
+30.35 
+
+3tkc.dssp_H_7.dssp :
+12.667 
+
+3w0c.dssp_H_4.dssp :
+27.15 
+
+1txi.dssp_H_2.dssp :
+66.286 
+
+3az2.dssp_H_10.dssp :
+52.429 
+
+3cs6.dssp_H_3.dssp :
+28.15 
+
+1ie8.dssp_H_8.dssp :
+43.182 
+
+1ie9.dssp_H_11.dssp :
+53.143 
+
+5yt2.dssp_H_7.dssp :
+11.833 
+
+5yt2.dssp_H_9.dssp :
+49.037 
+
+3p8x.dssp_H_11.dssp :
+54.429 
+
+3a78.dssp_H_10.dssp :
+64.0 
+
+3w0c.dssp_H_2.dssp :
+70.286 
+
+2har.dssp_H_11.dssp :
+53.429 
+
+3a2j.dssp_H_7.dssp :
+11.583 
+
+3vhw.dssp_H_5.dssp :
+29.4 
+
+3vhw.dssp_H_2.dssp :
+70.286 
+
+3w0a.dssp_H_5.dssp :
+28.4 
+
+3ax8.dssp_H_5.dssp :
+29.8 
+
+2har.dssp_H_3.dssp :
+27.35 
+
+3az1.dssp_H_1.dssp :
+56.588 
+
+3x36.dssp_H_4.dssp :
+27.842 
+
+3a40.dssp_H_6.dssp :
+51.4 
+
+3a40.dssp_H_5.dssp :
+34.0 
+
+1ie9.dssp_H_1.dssp :
+61.235 
+
+3az2.dssp_H_2.dssp :
+68.286 
+
+3auq.dssp_H_2.dssp :
+76.143 
+
+3a40.dssp_H_11.dssp :
+52.857 
+
+1s0z.dssp_H_5.dssp :
+28.6 
+
+3w0a.dssp_H_9.dssp :
+51.148 
+
+3x36.dssp_H_5.dssp :
+29.6 
+
+3a2j.dssp_H_10.dssp :
+58.714 
+
+3az3.dssp_H_3.dssp :
+29.75 
+
+1db1.dssp_H_4.dssp :
+28.158 
+
+3w0a.dssp_H_10.dssp :
+63.25 
+
+3kpz.dssp_H_7.dssp :
+12.417 
+
+4ite.dssp_H_7.dssp :
+11.583 
+
+1s19.dssp_H_3.dssp :
+29.15 
+
+2har.dssp_H_9.dssp :
+52.567 
+
+3a78.dssp_H_2.dssp :
+70.714 
+
+1ie8.dssp_H_2.dssp :
+68.143 
+
+3tkc.dssp_H_1.dssp :
+63.706 
+
+3vhw.dssp_H_7.dssp :
+11.25 
+
+3x36.dssp_H_3.dssp :
+29.0 
+
+3kpz.dssp_H_10.dssp :
+53.714 
+
+3w0a.dssp_H_7.dssp :
+12.083 
+
+3cs4.dssp_H_10.dssp :
+59.75 
+
+3tkc.dssp_H_8.dssp :
+43.273 
+
+4g2i.dssp_H_6.dssp :
+46.8 
+
+5v39.dssp_H_10.dssp :
+57.429 
+
+3p8x.dssp_H_4.dssp :
+26.263 
+
+3m7r.dssp_H_11.dssp :
+53.714 
+
+1ie9.dssp_H_10.dssp :
+65.5 
+
+3ax8.dssp_H_6.dssp :
+50.062 
+
+3az3.dssp_H_10.dssp :
+53.714 
+
+3cs6.dssp_H_6.dssp :
+49.8 
+
+2hb8.dssp_H_3.dssp :
+28.7 
+
+3az3.dssp_H_4.dssp :
+27.1 
+
+5ysy.dssp_H_2.dssp :
+70.286 
+
+3w0y.dssp_H_4.dssp :
+27.105 
+
+3w0y.dssp_H_1.dssp :
+58.118 
+
+1s19.dssp_H_7.dssp :
+12.333 
+
+2has.dssp_H_2.dssp :
+67.286 
+
+4itf.dssp_H_7.dssp :
+11.25 
+
+1ie8.dssp_H_6.dssp :
+54.375 
+
+1s0z.dssp_H_3.dssp :
+28.95 
+
+4ite.dssp_H_3.dssp :
+27.8 
+
+3wwr.dssp_H_3.dssp :
+25.211 
+
+3ax8.dssp_H_10.dssp :
+56.429 
+
+5yt2.dssp_H_2.dssp :
+70.0 
+
+3kpz.dssp_H_9.dssp :
+50.37 
+
+3a2i.dssp_H_9.dssp :
+49.296 
+
+4g2i.dssp_H_9.dssp :
+50.074 
+
+1txi.dssp_H_3.dssp :
+29.7 
+
+3ogt.dssp_H_6.dssp :
+56.312 
+
+1ie9.dssp_H_4.dssp :
+29.421 
+
+3a2i.dssp_H_6.dssp :
+49.333 
+
+3aur.dssp_H_1.dssp :
+59.0 
+

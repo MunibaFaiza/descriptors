@@ -1,0 +1,573 @@
+2hb7.dssp_G_3.dssp :
+36.0 
+
+3cs4.dssp_G_3.dssp :
+35.667 
+
+5gt4.dssp_G_4.dssp :
+88.333 
+
+1s0z.dssp_G_3.dssp :
+34.333 
+
+3az1.dssp_G_4.dssp :
+62.75 
+
+4g2i.dssp_G_4.dssp :
+86.333 
+
+3wgp.dssp_G_3.dssp :
+35.0 
+
+3a2j.dssp_G_3.dssp :
+34.333 
+
+3az3.dssp_G_1.dssp :
+82.667 
+
+3w0a.dssp_G_2.dssp :
+90.333 
+
+3wwr.dssp_G_2.dssp :
+107.0 
+
+1txi.dssp_G_1.dssp :
+84.0 
+
+3az1.dssp_G_3.dssp :
+85.333 
+
+3az3.dssp_G_4.dssp :
+65.75 
+
+2has.dssp_G_1.dssp :
+83.667 
+
+3vhw.dssp_G_3.dssp :
+37.0 
+
+3w0c.dssp_G_2.dssp :
+92.0 
+
+1s0z.dssp_G_2.dssp :
+89.0 
+
+4g2i.dssp_G_1.dssp :
+83.333 
+
+1s0z.dssp_G_5.dssp :
+79.0 
+
+3wgp.dssp_G_2.dssp :
+91.333 
+
+3p8x.dssp_G_2.dssp :
+90.0 
+
+3ax8.dssp_G_4.dssp :
+87.333 
+
+3w0c.dssp_G_3.dssp :
+83.0 
+
+3az1.dssp_G_2.dssp :
+93.0 
+
+3a2i.dssp_G_1.dssp :
+80.333 
+
+3vhw.dssp_G_2.dssp :
+102.667 
+
+3az2.dssp_G_2.dssp :
+93.0 
+
+1db1.dssp_G_2.dssp :
+92.667 
+
+1s19.dssp_G_4.dssp :
+88.667 
+
+2hb8.dssp_G_4.dssp :
+85.333 
+
+1txi.dssp_G_2.dssp :
+92.0 
+
+3p8x.dssp_G_4.dssp :
+90.0 
+
+3m7r.dssp_G_1.dssp :
+83.0 
+
+3w0y.dssp_G_5.dssp :
+82.333 
+
+4g2i.dssp_G_5.dssp :
+80.667 
+
+3a3z.dssp_G_3.dssp :
+36.0 
+
+1ie9.dssp_G_3.dssp :
+36.0 
+
+5yt2.dssp_G_1.dssp :
+85.0 
+
+3m7r.dssp_G_4.dssp :
+89.0 
+
+3x36.dssp_G_1.dssp :
+82.0 
+
+5gt4.dssp_G_2.dssp :
+94.0 
+
+3az2.dssp_G_3.dssp :
+95.0 
+
+3wwr.dssp_G_4.dssp :
+88.0 
+
+3b0t.dssp_G_3.dssp :
+35.667 
+
+3a3z.dssp_G_4.dssp :
+88.0 
+
+2has.dssp_G_3.dssp :
+36.0 
+
+3x31.dssp_G_3.dssp :
+34.333 
+
+3b0t.dssp_G_2.dssp :
+91.333 
+
+3a40.dssp_G_2.dssp :
+90.333 
+
+1db1.dssp_G_5.dssp :
+79.333 
+
+5v39.dssp_G_1.dssp :
+82.667 
+
+1ie8.dssp_G_5.dssp :
+57.0 
+
+3kpz.dssp_G_5.dssp :
+57.25 
+
+3a78.dssp_G_3.dssp :
+37.0 
+
+3a2i.dssp_G_2.dssp :
+97.333 
+
+3wgp.dssp_G_4.dssp :
+83.667 
+
+3cs4.dssp_G_1.dssp :
+82.333 
+
+3tkc.dssp_G_1.dssp :
+83.0 
+
+4itf.dssp_G_1.dssp :
+85.667 
+
+3b0t.dssp_G_4.dssp :
+86.333 
+
+3ax8.dssp_G_2.dssp :
+109.667 
+
+1ie9.dssp_G_1.dssp :
+82.667 
+
+3w0y.dssp_G_3.dssp :
+40.333 
+
+5gt4.dssp_G_3.dssp :
+36.0 
+
+3m7r.dssp_G_2.dssp :
+91.0 
+
+3x31.dssp_G_2.dssp :
+94.0 
+
+4ite.dssp_G_1.dssp :
+84.0 
+
+3x31.dssp_G_4.dssp :
+91.333 
+
+3az3.dssp_G_3.dssp :
+84.667 
+
+3cs6.dssp_G_1.dssp :
+82.333 
+
+4itf.dssp_G_5.dssp :
+77.667 
+
+3ax8.dssp_G_1.dssp :
+81.667 
+
+3a2j.dssp_G_2.dssp :
+93.333 
+
+5ysy.dssp_G_1.dssp :
+84.0 
+
+3auq.dssp_G_1.dssp :
+82.0 
+
+3a40.dssp_G_1.dssp :
+83.0 
+
+5yt2.dssp_G_2.dssp :
+100.0 
+
+3aur.dssp_G_5.dssp :
+66.667 
+
+3cs6.dssp_G_3.dssp :
+35.667 
+
+4ite.dssp_G_3.dssp :
+35.667 
+
+4itf.dssp_G_3.dssp :
+36.667 
+
+3w0c.dssp_G_4.dssp :
+83.667 
+
+2has.dssp_G_4.dssp :
+84.667 
+
+3w0a.dssp_G_1.dssp :
+83.667 
+
+3aur.dssp_G_1.dssp :
+80.0 
+
+3ogt.dssp_G_4.dssp :
+77.667 
+
+3ogt.dssp_G_2.dssp :
+97.667 
+
+3m7r.dssp_G_3.dssp :
+35.333 
+
+1ie9.dssp_G_4.dssp :
+87.333 
+
+3wwr.dssp_G_3.dssp :
+39.667 
+
+3a78.dssp_G_4.dssp :
+86.0 
+
+3cs4.dssp_G_4.dssp :
+81.333 
+
+4g2i.dssp_G_3.dssp :
+37.0 
+
+3kpz.dssp_G_4.dssp :
+87.0 
+
+3w0y.dssp_G_2.dssp :
+93.333 
+
+3tkc.dssp_G_3.dssp :
+36.667 
+
+2hb8.dssp_G_5.dssp :
+78.0 
+
+1s0z.dssp_G_1.dssp :
+84.333 
+
+1ie8.dssp_G_4.dssp :
+78.333 
+
+1db1.dssp_G_1.dssp :
+83.333 
+
+3ogt.dssp_G_3.dssp :
+36.667 
+
+3a40.dssp_G_3.dssp :
+35.667 
+
+2hb7.dssp_G_2.dssp :
+89.333 
+
+1s19.dssp_G_3.dssp :
+36.667 
+
+3auq.dssp_G_4.dssp :
+76.667 
+
+5ysy.dssp_G_3.dssp :
+34.0 
+
+3w0y.dssp_G_1.dssp :
+86.667 
+
+4g2i.dssp_G_2.dssp :
+92.667 
+
+3cs4.dssp_G_2.dssp :
+87.667 
+
+1txi.dssp_G_3.dssp :
+36.667 
+
+3w0c.dssp_G_1.dssp :
+81.667 
+
+3tkc.dssp_G_2.dssp :
+97.0 
+
+3ax8.dssp_G_5.dssp :
+72.667 
+
+3cs6.dssp_G_2.dssp :
+88.0 
+
+2hb8.dssp_G_1.dssp :
+82.667 
+
+3a78.dssp_G_1.dssp :
+83.667 
+
+3aur.dssp_G_3.dssp :
+34.333 
+
+3az1.dssp_G_1.dssp :
+82.0 
+
+3a2i.dssp_G_3.dssp :
+37.667 
+
+3ogt.dssp_G_5.dssp :
+62.75 
+
+2har.dssp_G_1.dssp :
+82.333 
+
+5ysy.dssp_G_2.dssp :
+99.667 
+
+5gt4.dssp_G_1.dssp :
+84.333 
+
+3aur.dssp_G_2.dssp :
+95.0 
+
+4ite.dssp_G_4.dssp :
+86.333 
+
+1ie9.dssp_G_2.dssp :
+93.667 
+
+1ie8.dssp_G_2.dssp :
+89.667 
+
+3w0y.dssp_G_4.dssp :
+86.667 
+
+3w0a.dssp_G_3.dssp :
+86.667 
+
+4ite.dssp_G_2.dssp :
+97.333 
+
+1s19.dssp_G_5.dssp :
+79.333 
+
+2ham.dssp_G_4.dssp :
+82.333 
+
+3ogt.dssp_G_1.dssp :
+83.333 
+
+2hb8.dssp_G_3.dssp :
+36.0 
+
+5yt2.dssp_G_4.dssp :
+86.0 
+
+1s0z.dssp_G_4.dssp :
+84.0 
+
+3az3.dssp_G_2.dssp :
+92.667 
+
+3a3z.dssp_G_2.dssp :
+100.333 
+
+3x36.dssp_G_4.dssp :
+71.333 
+
+2hb7.dssp_G_4.dssp :
+80.667 
+
+3kpz.dssp_G_1.dssp :
+82.667 
+
+3cs6.dssp_G_4.dssp :
+83.667 
+
+3az2.dssp_G_4.dssp :
+66.25 
+
+3p8x.dssp_G_3.dssp :
+35.667 
+
+1db1.dssp_G_3.dssp :
+35.667 
+
+3x36.dssp_G_2.dssp :
+97.0 
+
+3a78.dssp_G_2.dssp :
+93.667 
+
+5yt2.dssp_G_3.dssp :
+35.0 
+
+3a2j.dssp_G_1.dssp :
+82.333 
+
+5v39.dssp_G_3.dssp :
+88.333 
+
+1s19.dssp_G_1.dssp :
+84.333 
+
+2hb7.dssp_G_1.dssp :
+83.0 
+
+3tkc.dssp_G_5.dssp :
+62.5 
+
+5v39.dssp_G_4.dssp :
+92.667 
+
+3auq.dssp_G_3.dssp :
+34.333 
+
+3a3z.dssp_G_1.dssp :
+83.0 
+
+4itf.dssp_G_2.dssp :
+96.333 
+
+1ie8.dssp_G_1.dssp :
+82.0 
+
+2har.dssp_G_3.dssp :
+36.0 
+
+1txi.dssp_G_4.dssp :
+86.667 
+
+3a3z.dssp_G_5.dssp :
+62.25 
+
+3kpz.dssp_G_3.dssp :
+36.333 
+
+2ham.dssp_G_2.dssp :
+88.667 
+
+3az2.dssp_G_1.dssp :
+83.667 
+
+3wgp.dssp_G_1.dssp :
+83.0 
+
+2har.dssp_G_2.dssp :
+88.333 
+
+3x36.dssp_G_3.dssp :
+34.667 
+
+1txi.dssp_G_5.dssp :
+59.75 
+
+3aur.dssp_G_4.dssp :
+81.333 
+
+5v39.dssp_G_2.dssp :
+98.667 
+
+3x31.dssp_G_1.dssp :
+82.0 
+
+3a40.dssp_G_4.dssp :
+94.0 
+
+4itf.dssp_G_4.dssp :
+91.0 
+
+1ie8.dssp_G_3.dssp :
+35.667 
+
+1db1.dssp_G_4.dssp :
+85.667 
+
+3vhw.dssp_G_1.dssp :
+81.333 
+
+3wwr.dssp_G_1.dssp :
+73.8 
+
+2has.dssp_G_2.dssp :
+87.0 
+
+2ham.dssp_G_3.dssp :
+36.333 
+
+1s19.dssp_G_2.dssp :
+92.333 
+
+2hb8.dssp_G_2.dssp :
+89.333 
+
+3p8x.dssp_G_1.dssp :
+81.0 
+
+3tkc.dssp_G_4.dssp :
+78.0 
+
+3kpz.dssp_G_2.dssp :
+92.0 
+
+3b0t.dssp_G_1.dssp :
+81.667 
+
+2ham.dssp_G_1.dssp :
+85.333 
+
+3a2i.dssp_G_4.dssp :
+82.0 
+
+3ax8.dssp_G_3.dssp :
+36.0 
+
+3aur.dssp_G_6.dssp :
+56.5 
+
+3auq.dssp_G_2.dssp :
+91.0 
+

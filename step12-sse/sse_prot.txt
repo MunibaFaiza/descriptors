@@ -1,0 +1,630 @@
+
+
+ 3az2.dssp :
+
+ Percentage of Helix: 60.96% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.79%, 
+ Percentage of Helix-3: 5.18% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 10.76% 
+ Percentage of Bend: 4.38% 
+ Percentage of other residues: 15.94%
+
+ The total percentage: 100.0 %
+
+
+ 4ite.dssp :
+
+ Percentage of Helix: 59.84% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 4.72% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 10.63% 
+ Percentage of Bend: 5.51% 
+ Percentage of other residues: 16.54%
+
+ The total percentage: 100.00000000000001 %
+
+
+ 3a40.dssp :
+
+ Percentage of Helix: 60.39% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.75%, 
+ Percentage of Helix-3: 4.71% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 13.73% 
+ Percentage of Bend: 4.31% 
+ Percentage of other residues: 14.12%
+
+ The total percentage: 100.0 %
+
+
+ 5yt2.dssp :
+
+ Percentage of Helix: 61.33% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.73%, 
+ Percentage of Helix-3: 4.69% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 9.38% 
+ Percentage of Bend: 6.25% 
+ Percentage of other residues: 15.62%
+
+ The total percentage: 100.0 %
+
+
+ 3tkc.dssp :
+
+ Percentage of Helix: 59.45% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 6.3% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 13.39% 
+ Percentage of Bend: 4.33% 
+ Percentage of other residues: 13.78%
+
+ The total percentage: 100.0 %
+
+
+ 5v39.dssp :
+
+ Percentage of Helix: 60.56% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.79%, 
+ Percentage of Helix-3: 4.78% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 14.74% 
+ Percentage of Bend: 3.98% 
+ Percentage of other residues: 13.15%
+
+ The total percentage: 100.0 %
+
+
+ 1txi.dssp :
+
+ Percentage of Helix: 60.08% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.77%, 
+ Percentage of Helix-3: 6.32% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.86% 
+ Percentage of Bend: 5.14% 
+ Percentage of other residues: 13.83%
+
+ The total percentage: 100.0 %
+
+
+ 3az3.dssp :
+
+ Percentage of Helix: 60.96% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.79%, 
+ Percentage of Helix-3: 5.18% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 10.76% 
+ Percentage of Bend: 5.18% 
+ Percentage of other residues: 15.14%
+
+ The total percentage: 100.0 %
+
+
+ 3p8x.dssp :
+
+ Percentage of Helix: 60.78% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.75%, 
+ Percentage of Helix-3: 4.71% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.76% 
+ Percentage of Bend: 5.1% 
+ Percentage of other residues: 14.9%
+
+ The total percentage: 100.0 %
+
+
+ 5ysy.dssp :
+
+ Percentage of Helix: 61.33% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.73%, 
+ Percentage of Helix-3: 3.52% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 10.94% 
+ Percentage of Bend: 6.25% 
+ Percentage of other residues: 15.23%
+
+ The total percentage: 100.0 %
+
+
+ 3ogt.dssp :
+
+ Percentage of Helix: 59.84% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 6.3% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 12.99% 
+ Percentage of Bend: 4.33% 
+ Percentage of other residues: 13.78%
+
+ The total percentage: 100.0 %
+
+
+ 3vhw.dssp :
+
+ Percentage of Helix: 60.39% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.75%, 
+ Percentage of Helix-3: 3.53% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 12.55% 
+ Percentage of Bend: 5.49% 
+ Percentage of other residues: 15.29%
+
+ The total percentage: 99.99999999999999 %
+
+
+ 5gt4.dssp :
+
+ Percentage of Helix: 61.18% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.75%, 
+ Percentage of Helix-3: 4.71% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.37% 
+ Percentage of Bend: 5.88% 
+ Percentage of other residues: 14.12%
+
+ The total percentage: 100.0 %
+
+
+ 2hb8.dssp :
+
+ Percentage of Helix: 59.45% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 5.91% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.42% 
+ Percentage of Bend: 5.51% 
+ Percentage of other residues: 14.96%
+
+ The total percentage: 100.0 %
+
+
+ 3cs6.dssp :
+
+ Percentage of Helix: 61.02% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 4.72% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.81% 
+ Percentage of Bend: 5.12% 
+ Percentage of other residues: 14.57%
+
+ The total percentage: 100.0 %
+
+
+ 3cs4.dssp :
+
+ Percentage of Helix: 61.02% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 4.72% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 12.6% 
+ Percentage of Bend: 4.33% 
+ Percentage of other residues: 14.57%
+
+ The total percentage: 100.0 %
+
+
+ 3wwr.dssp :
+
+ Percentage of Helix: 60.0% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.75%, 
+ Percentage of Helix-3: 5.49% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.37% 
+ Percentage of Bend: 5.49% 
+ Percentage of other residues: 14.9%
+
+ The total percentage: 100.0 %
+
+
+ 3b0t.dssp :
+
+ Percentage of Helix: 61.02% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 4.72% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 12.6% 
+ Percentage of Bend: 4.33% 
+ Percentage of other residues: 14.57%
+
+ The total percentage: 100.0 %
+
+
+ 3x31.dssp :
+
+ Percentage of Helix: 61.18% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.75%, 
+ Percentage of Helix-3: 4.71% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 9.8% 
+ Percentage of Bend: 6.27% 
+ Percentage of other residues: 15.29%
+
+ The total percentage: 100.00000000000001 %
+
+
+ 3w0c.dssp :
+
+ Percentage of Helix: 60.56% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.79%, 
+ Percentage of Helix-3: 4.78% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.16% 
+ Percentage of Bend: 4.78% 
+ Percentage of other residues: 15.94%
+
+ The total percentage: 100.0 %
+
+
+ 1s19.dssp :
+
+ Percentage of Helix: 59.68% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.77%, 
+ Percentage of Helix-3: 5.93% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 12.25% 
+ Percentage of Bend: 5.14% 
+ Percentage of other residues: 14.23%
+
+ The total percentage: 100.00000000000001 %
+
+
+ 3a2j.dssp :
+
+ Percentage of Helix: 59.06% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 3.54% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 13.78% 
+ Percentage of Bend: 6.3% 
+ Percentage of other residues: 14.57%
+
+ The total percentage: 100.0 %
+
+
+ 3a78.dssp :
+
+ Percentage of Helix: 61.18% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.75%, 
+ Percentage of Helix-3: 4.71% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 12.16% 
+ Percentage of Bend: 4.71% 
+ Percentage of other residues: 14.51%
+
+ The total percentage: 100.0 %
+
+
+ 3wgp.dssp :
+
+ Percentage of Helix: 61.75% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.79%, 
+ Percentage of Helix-3: 4.78% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 10.36% 
+ Percentage of Bend: 4.38% 
+ Percentage of other residues: 15.94%
+
+ The total percentage: 99.99999999999999 %
+
+
+ 1ie8.dssp :
+
+ Percentage of Helix: 60.56% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.79%, 
+ Percentage of Helix-3: 6.37% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 10.76% 
+ Percentage of Bend: 4.38% 
+ Percentage of other residues: 15.14%
+
+ The total percentage: 100.0 %
+
+
+ 1ie9.dssp :
+
+ Percentage of Helix: 60.39% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.75%, 
+ Percentage of Helix-3: 4.71% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 12.94% 
+ Percentage of Bend: 4.31% 
+ Percentage of other residues: 14.9%
+
+ The total percentage: 100.0 %
+
+
+ 4itf.dssp :
+
+ Percentage of Helix: 60.24% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 5.91% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 9.06% 
+ Percentage of Bend: 5.51% 
+ Percentage of other residues: 16.54%
+
+ The total percentage: 100.0 %
+
+
+ 4g2i.dssp :
+
+ Percentage of Helix: 59.68% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.77%, 
+ Percentage of Helix-3: 5.93% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.46% 
+ Percentage of Bend: 6.32% 
+ Percentage of other residues: 13.83%
+
+ The total percentage: 100.00000000000001 %
+
+
+ 3ax8.dssp :
+
+ Percentage of Helix: 59.84% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 5.91% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 10.24% 
+ Percentage of Bend: 5.91% 
+ Percentage of other residues: 15.35%
+
+ The total percentage: 100.0 %
+
+
+ 2har.dssp :
+
+ Percentage of Helix: 62.45% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.77%, 
+ Percentage of Helix-3: 3.56% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.46% 
+ Percentage of Bend: 4.74% 
+ Percentage of other residues: 15.02%
+
+ The total percentage: 99.99999999999997 %
+
+
+ 3w0a.dssp :
+
+ Percentage of Helix: 62.15% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.79%, 
+ Percentage of Helix-3: 3.59% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.16% 
+ Percentage of Bend: 4.38% 
+ Percentage of other residues: 15.94%
+
+ The total percentage: 100.00000000000001 %
+
+
+ 3m7r.dssp :
+
+ Percentage of Helix: 61.66% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.77%, 
+ Percentage of Helix-3: 4.74% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 9.88% 
+ Percentage of Bend: 7.11% 
+ Percentage of other residues: 13.83%
+
+ The total percentage: 100.0 %
+
+
+ 3w0y.dssp :
+
+ Percentage of Helix: 60.16% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.79%, 
+ Percentage of Helix-3: 5.98% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.16% 
+ Percentage of Bend: 4.38% 
+ Percentage of other residues: 15.54%
+
+ The total percentage: 100.00000000000001 %
+
+
+ 3a2i.dssp :
+
+ Percentage of Helix: 59.06% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 4.72% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 12.6% 
+ Percentage of Bend: 6.3% 
+ Percentage of other residues: 14.57%
+
+ The total percentage: 100.0 %
+
+
+ 1db1.dssp :
+
+ Percentage of Helix: 60.56% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.79%, 
+ Percentage of Helix-3: 5.98% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 10.76% 
+ Percentage of Bend: 3.98% 
+ Percentage of other residues: 15.94%
+
+ The total percentage: 100.0 %
+
+
+ 3aur.dssp :
+
+ Percentage of Helix: 59.84% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 7.48% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 9.84% 
+ Percentage of Bend: 5.12% 
+ Percentage of other residues: 14.96%
+
+ The total percentage: 100.00000000000003 %
+
+
+ 2hb7.dssp :
+
+ Percentage of Helix: 61.42% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 4.72% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 10.24% 
+ Percentage of Bend: 6.3% 
+ Percentage of other residues: 14.57%
+
+ The total percentage: 100.00000000000001 %
+
+
+ 3auq.dssp :
+
+ Percentage of Helix: 59.06% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 4.72% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.42% 
+ Percentage of Bend: 6.3% 
+ Percentage of other residues: 15.75%
+
+ The total percentage: 100.0 %
+
+
+ 2ham.dssp :
+
+ Percentage of Helix: 62.2% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 4.72% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.02% 
+ Percentage of Bend: 4.33% 
+ Percentage of other residues: 14.96%
+
+ The total percentage: 100.0 %
+
+
+ 2has.dssp :
+
+ Percentage of Helix: 62.2% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.76%, 
+ Percentage of Helix-3: 4.72% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 10.24% 
+ Percentage of Bend: 4.72% 
+ Percentage of other residues: 15.35%
+
+ The total percentage: 100.00000000000003 %
+
+
+ 3az1.dssp :
+
+ Percentage of Helix: 60.56% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.79%, 
+ Percentage of Helix-3: 5.18% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.16% 
+ Percentage of Bend: 4.78% 
+ Percentage of other residues: 15.54%
+
+ The total percentage: 100.00000000000001 %
+
+
+ 3kpz.dssp :
+
+ Percentage of Helix: 60.47% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.77%, 
+ Percentage of Helix-3: 6.32% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 9.49% 
+ Percentage of Bend: 6.72% 
+ Percentage of other residues: 14.23%
+
+ The total percentage: 100.0 %
+
+
+ 3x36.dssp :
+
+ Percentage of Helix: 59.61% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.75%, 
+ Percentage of Helix-3: 4.71% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 11.76% 
+ Percentage of Bend: 6.27% 
+ Percentage of other residues: 14.9%
+
+ The total percentage: 100.00000000000001 %
+
+
+ 1s0z.dssp :
+
+ Percentage of Helix: 59.29% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.77%, 
+ Percentage of Helix-3: 5.93% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 12.65% 
+ Percentage of Bend: 5.14% 
+ Percentage of other residues: 14.23%
+
+ The total percentage: 99.99999999999999 %
+
+
+ 3a3z.dssp :
+
+ Percentage of Helix: 58.82% 
+ Percentage of Beta bridge: 0.0% 
+ Percentage of Strand: 2.75%, 
+ Percentage of Helix-3: 6.27% 
+ Percentage of Helix-5: 0.0% 
+ Percentage of Turn: 13.73% 
+ Percentage of Bend: 4.31% 
+ Percentage of other residues: 14.12%
+
+ The total percentage: 100.0 %

@@ -1,0 +1,1986 @@
+3az2.dssp_H_9.dssp_OUTPUT.pdb :
+8.236 
+
+3az2.dssp_G_2.dssp_OUTPUT.pdb :
+4.331 
+
+3az2.dssp_G_5.dssp_OUTPUT.pdb :
+4.535 
+
+3az2.dssp_H_6.dssp_OUTPUT.pdb :
+9.497 
+
+3az2.dssp_H_14.dssp_OUTPUT.pdb :
+4.809 
+
+3az2.dssp_G_13.dssp_OUTPUT.pdb :
+3.955 
+
+3az2.dssp_H_1.dssp_OUTPUT.pdb :
+8.528 
+
+3az2.dssp_H_11.dssp_OUTPUT.pdb :
+10.0 
+
+3az2.dssp_G_7.dssp_OUTPUT.pdb :
+4.268 
+
+3az2.dssp_H_12.dssp_OUTPUT.pdb :
+12.406 
+
+3az2.dssp_H_10.dssp_OUTPUT.pdb :
+6.697 
+
+3az2.dssp_H_4.dssp_OUTPUT.pdb :
+9.357 
+
+3az2.dssp_H_8.dssp_OUTPUT.pdb :
+3.863 
+
+3az2.dssp_H_3.dssp_OUTPUT.pdb :
+4.774 
+
+4ite.dssp_H_9.dssp_OUTPUT.pdb :
+6.675 
+
+4ite.dssp_H_1.dssp_OUTPUT.pdb :
+8.68 
+
+4ite.dssp_H_8.dssp_OUTPUT.pdb :
+7.709 
+
+4ite.dssp_H_13.dssp_OUTPUT.pdb :
+4.813 
+
+4ite.dssp_G_2.dssp_OUTPUT.pdb :
+4.283 
+
+4ite.dssp_H_7.dssp_OUTPUT.pdb :
+3.863 
+
+4ite.dssp_H_11.dssp_OUTPUT.pdb :
+12.918 
+
+4ite.dssp_H_10.dssp_OUTPUT.pdb :
+10.015 
+
+4ite.dssp_H_4.dssp_OUTPUT.pdb :
+9.301 
+
+4ite.dssp_G_6.dssp_OUTPUT.pdb :
+3.892 
+
+4ite.dssp_H_6.dssp_OUTPUT.pdb :
+9.222 
+
+4ite.dssp_H_3.dssp_OUTPUT.pdb :
+4.796 
+
+4ite.dssp_G_5.dssp_OUTPUT.pdb :
+4.552 
+
+4ite.dssp_G_12.dssp_OUTPUT.pdb :
+3.829 
+
+3a40.dssp_H_8.dssp_OUTPUT.pdb :
+3.86 
+
+3a40.dssp_H_1.dssp_OUTPUT.pdb :
+8.779 
+
+3a40.dssp_H_10.dssp_OUTPUT.pdb :
+6.694 
+
+3a40.dssp_G_2.dssp_OUTPUT.pdb :
+4.285 
+
+3a40.dssp_G_5.dssp_OUTPUT.pdb :
+4.555 
+
+3a40.dssp_H_13.dssp_OUTPUT.pdb :
+3.995 
+
+3a40.dssp_H_3.dssp_OUTPUT.pdb :
+4.75 
+
+3a40.dssp_H_6.dssp_OUTPUT.pdb :
+9.343 
+
+3a40.dssp_H_9.dssp_OUTPUT.pdb :
+7.732 
+
+3a40.dssp_H_12.dssp_OUTPUT.pdb :
+12.153 
+
+3a40.dssp_H_14.dssp_OUTPUT.pdb :
+4.807 
+
+3a40.dssp_G_6.dssp_OUTPUT.pdb :
+3.875 
+
+3a40.dssp_H_11.dssp_OUTPUT.pdb :
+9.881 
+
+3a40.dssp_G_7.dssp_OUTPUT.pdb :
+4.351 
+
+3a40.dssp_H_4.dssp_OUTPUT.pdb :
+9.316 
+
+5yt2.dssp_H_8.dssp_OUTPUT.pdb :
+8.779 
+
+5yt2.dssp_G_6.dssp_OUTPUT.pdb :
+3.887 
+
+5yt2.dssp_H_12.dssp_OUTPUT.pdb :
+3.776 
+
+5yt2.dssp_H_13.dssp_OUTPUT.pdb :
+4.805 
+
+5yt2.dssp_G_11.dssp_OUTPUT.pdb :
+3.604 
+
+5yt2.dssp_H_7.dssp_OUTPUT.pdb :
+3.86 
+
+5yt2.dssp_H_1.dssp_OUTPUT.pdb :
+8.758 
+
+5yt2.dssp_H_4.dssp_OUTPUT.pdb :
+9.319 
+
+5yt2.dssp_G_5.dssp_OUTPUT.pdb :
+4.373 
+
+5yt2.dssp_G_2.dssp_OUTPUT.pdb :
+4.218 
+
+5yt2.dssp_H_10.dssp_OUTPUT.pdb :
+9.807 
+
+5yt2.dssp_H_6.dssp_OUTPUT.pdb :
+9.228 
+
+5yt2.dssp_H_9.dssp_OUTPUT.pdb :
+6.714 
+
+5yt2.dssp_H_11.dssp_OUTPUT.pdb :
+12.288 
+
+5yt2.dssp_H_3.dssp_OUTPUT.pdb :
+4.564 
+
+3tkc.dssp_H_8.dssp_OUTPUT.pdb :
+3.954 
+
+3tkc.dssp_G_13.dssp_OUTPUT.pdb :
+3.934 
+
+3tkc.dssp_H_9.dssp_OUTPUT.pdb :
+7.776 
+
+3tkc.dssp_H_1.dssp_OUTPUT.pdb :
+8.649 
+
+3tkc.dssp_H_10.dssp_OUTPUT.pdb :
+6.696 
+
+3tkc.dssp_H_11.dssp_OUTPUT.pdb :
+9.992 
+
+3tkc.dssp_G_5.dssp_OUTPUT.pdb :
+4.552 
+
+3tkc.dssp_H_14.dssp_OUTPUT.pdb :
+4.818 
+
+3tkc.dssp_H_3.dssp_OUTPUT.pdb :
+4.745 
+
+3tkc.dssp_H_4.dssp_OUTPUT.pdb :
+9.327 
+
+3tkc.dssp_G_6.dssp_OUTPUT.pdb :
+3.874 
+
+3tkc.dssp_H_12.dssp_OUTPUT.pdb :
+12.485 
+
+3tkc.dssp_G_2.dssp_OUTPUT.pdb :
+4.29 
+
+3tkc.dssp_G_7.dssp_OUTPUT.pdb :
+4.225 
+
+3tkc.dssp_H_6.dssp_OUTPUT.pdb :
+9.235 
+
+5v39.dssp_G_13.dssp_OUTPUT.pdb :
+3.951 
+
+5v39.dssp_H_14.dssp_OUTPUT.pdb :
+4.83 
+
+5v39.dssp_H_6.dssp_OUTPUT.pdb :
+9.62 
+
+5v39.dssp_H_8.dssp_OUTPUT.pdb :
+3.882 
+
+5v39.dssp_H_3.dssp_OUTPUT.pdb :
+4.791 
+
+5v39.dssp_G_2.dssp_OUTPUT.pdb :
+4.346 
+
+5v39.dssp_H_10.dssp_OUTPUT.pdb :
+6.718 
+
+5v39.dssp_H_4.dssp_OUTPUT.pdb :
+9.402 
+
+5v39.dssp_H_12.dssp_OUTPUT.pdb :
+12.154 
+
+5v39.dssp_G_7.dssp_OUTPUT.pdb :
+4.254 
+
+5v39.dssp_H_1.dssp_OUTPUT.pdb :
+8.721 
+
+5v39.dssp_G_5.dssp_OUTPUT.pdb :
+4.579 
+
+5v39.dssp_H_9.dssp_OUTPUT.pdb :
+8.186 
+
+5v39.dssp_H_11.dssp_OUTPUT.pdb :
+10.107 
+
+1txi.dssp_G_13.dssp_OUTPUT.pdb :
+3.911 
+
+1txi.dssp_H_3.dssp_OUTPUT.pdb :
+4.69 
+
+1txi.dssp_H_11.dssp_OUTPUT.pdb :
+10.039 
+
+1txi.dssp_H_10.dssp_OUTPUT.pdb :
+6.723 
+
+1txi.dssp_H_9.dssp_OUTPUT.pdb :
+8.216 
+
+1txi.dssp_G_6.dssp_OUTPUT.pdb :
+3.869 
+
+1txi.dssp_G_5.dssp_OUTPUT.pdb :
+4.417 
+
+1txi.dssp_H_1.dssp_OUTPUT.pdb :
+8.545 
+
+1txi.dssp_H_4.dssp_OUTPUT.pdb :
+9.347 
+
+1txi.dssp_H_14.dssp_OUTPUT.pdb :
+4.804 
+
+1txi.dssp_H_8.dssp_OUTPUT.pdb :
+3.873 
+
+1txi.dssp_H_6.dssp_OUTPUT.pdb :
+9.277 
+
+1txi.dssp_H_12.dssp_OUTPUT.pdb :
+12.563 
+
+1txi.dssp_G_7.dssp_OUTPUT.pdb :
+4.236 
+
+1txi.dssp_G_2.dssp_OUTPUT.pdb :
+4.269 
+
+3az3.dssp_H_1.dssp_OUTPUT.pdb :
+8.475 
+
+3az3.dssp_H_11.dssp_OUTPUT.pdb :
+10.007 
+
+3az3.dssp_G_2.dssp_OUTPUT.pdb :
+4.31 
+
+3az3.dssp_G_7.dssp_OUTPUT.pdb :
+4.258 
+
+3az3.dssp_H_10.dssp_OUTPUT.pdb :
+6.711 
+
+3az3.dssp_G_13.dssp_OUTPUT.pdb :
+3.949 
+
+3az3.dssp_H_9.dssp_OUTPUT.pdb :
+8.218 
+
+3az3.dssp_H_8.dssp_OUTPUT.pdb :
+3.862 
+
+3az3.dssp_G_5.dssp_OUTPUT.pdb :
+4.568 
+
+3az3.dssp_H_12.dssp_OUTPUT.pdb :
+12.45 
+
+3az3.dssp_H_4.dssp_OUTPUT.pdb :
+9.354 
+
+3az3.dssp_H_6.dssp_OUTPUT.pdb :
+9.509 
+
+3az3.dssp_H_3.dssp_OUTPUT.pdb :
+4.751 
+
+3az3.dssp_H_14.dssp_OUTPUT.pdb :
+4.832 
+
+3p8x.dssp_H_10.dssp_OUTPUT.pdb :
+6.661 
+
+3p8x.dssp_H_11.dssp_OUTPUT.pdb :
+9.845 
+
+3p8x.dssp_H_12.dssp_OUTPUT.pdb :
+12.446 
+
+3p8x.dssp_H_6.dssp_OUTPUT.pdb :
+9.16 
+
+3p8x.dssp_G_7.dssp_OUTPUT.pdb :
+4.283 
+
+3p8x.dssp_H_8.dssp_OUTPUT.pdb :
+3.838 
+
+3p8x.dssp_G_2.dssp_OUTPUT.pdb :
+4.254 
+
+3p8x.dssp_H_9.dssp_OUTPUT.pdb :
+7.707 
+
+3p8x.dssp_H_3.dssp_OUTPUT.pdb :
+4.752 
+
+3p8x.dssp_H_1.dssp_OUTPUT.pdb :
+8.511 
+
+3p8x.dssp_G_6.dssp_OUTPUT.pdb :
+3.852 
+
+3p8x.dssp_G_5.dssp_OUTPUT.pdb :
+4.387 
+
+3p8x.dssp_H_13.dssp_OUTPUT.pdb :
+4.101 
+
+3p8x.dssp_H_14.dssp_OUTPUT.pdb :
+4.785 
+
+3p8x.dssp_H_4.dssp_OUTPUT.pdb :
+9.228 
+
+5ysy.dssp_H_11.dssp_OUTPUT.pdb :
+12.531 
+
+5ysy.dssp_H_4.dssp_OUTPUT.pdb :
+9.292 
+
+5ysy.dssp_G_5.dssp_OUTPUT.pdb :
+4.524 
+
+5ysy.dssp_H_9.dssp_OUTPUT.pdb :
+6.706 
+
+5ysy.dssp_H_10.dssp_OUTPUT.pdb :
+10.131 
+
+5ysy.dssp_H_7.dssp_OUTPUT.pdb :
+3.851 
+
+5ysy.dssp_H_3.dssp_OUTPUT.pdb :
+4.902 
+
+5ysy.dssp_G_2.dssp_OUTPUT.pdb :
+4.29 
+
+5ysy.dssp_H_6.dssp_OUTPUT.pdb :
+9.528 
+
+5ysy.dssp_H_1.dssp_OUTPUT.pdb :
+8.614 
+
+5ysy.dssp_G_6.dssp_OUTPUT.pdb :
+3.901 
+
+5ysy.dssp_H_12.dssp_OUTPUT.pdb :
+3.844 
+
+5ysy.dssp_H_8.dssp_OUTPUT.pdb :
+8.515 
+
+5ysy.dssp_H_13.dssp_OUTPUT.pdb :
+4.801 
+
+3ogt.dssp_H_10.dssp_OUTPUT.pdb :
+6.697 
+
+3ogt.dssp_G_13.dssp_OUTPUT.pdb :
+3.938 
+
+3ogt.dssp_G_2.dssp_OUTPUT.pdb :
+4.292 
+
+3ogt.dssp_H_4.dssp_OUTPUT.pdb :
+9.329 
+
+3ogt.dssp_H_1.dssp_OUTPUT.pdb :
+8.648 
+
+3ogt.dssp_G_5.dssp_OUTPUT.pdb :
+4.556 
+
+3ogt.dssp_G_7.dssp_OUTPUT.pdb :
+4.229 
+
+3ogt.dssp_H_8.dssp_OUTPUT.pdb :
+3.955 
+
+3ogt.dssp_G_6.dssp_OUTPUT.pdb :
+3.875 
+
+3ogt.dssp_H_11.dssp_OUTPUT.pdb :
+9.993 
+
+3ogt.dssp_H_14.dssp_OUTPUT.pdb :
+4.819 
+
+3ogt.dssp_H_9.dssp_OUTPUT.pdb :
+8.194 
+
+3ogt.dssp_H_6.dssp_OUTPUT.pdb :
+9.236 
+
+3ogt.dssp_H_3.dssp_OUTPUT.pdb :
+4.749 
+
+3ogt.dssp_H_12.dssp_OUTPUT.pdb :
+12.485 
+
+3vhw.dssp_H_1.dssp_OUTPUT.pdb :
+8.685 
+
+3vhw.dssp_H_8.dssp_OUTPUT.pdb :
+7.663 
+
+3vhw.dssp_H_13.dssp_OUTPUT.pdb :
+4.789 
+
+3vhw.dssp_G_6.dssp_OUTPUT.pdb :
+3.912 
+
+3vhw.dssp_H_10.dssp_OUTPUT.pdb :
+9.996 
+
+3vhw.dssp_H_4.dssp_OUTPUT.pdb :
+9.288 
+
+3vhw.dssp_H_12.dssp_OUTPUT.pdb :
+3.779 
+
+3vhw.dssp_H_6.dssp_OUTPUT.pdb :
+9.19 
+
+3vhw.dssp_G_5.dssp_OUTPUT.pdb :
+4.474 
+
+3vhw.dssp_H_7.dssp_OUTPUT.pdb :
+3.89 
+
+3vhw.dssp_H_9.dssp_OUTPUT.pdb :
+6.655 
+
+3vhw.dssp_H_3.dssp_OUTPUT.pdb :
+4.618 
+
+3vhw.dssp_G_2.dssp_OUTPUT.pdb :
+4.275 
+
+3vhw.dssp_H_11.dssp_OUTPUT.pdb :
+12.188 
+
+5gt4.dssp_H_14.dssp_OUTPUT.pdb :
+4.804 
+
+5gt4.dssp_H_10.dssp_OUTPUT.pdb :
+6.684 
+
+5gt4.dssp_H_3.dssp_OUTPUT.pdb :
+4.814 
+
+5gt4.dssp_G_6.dssp_OUTPUT.pdb :
+3.913 
+
+5gt4.dssp_H_1.dssp_OUTPUT.pdb :
+8.894 
+
+5gt4.dssp_G_7.dssp_OUTPUT.pdb :
+4.228 
+
+5gt4.dssp_H_6.dssp_OUTPUT.pdb :
+9.218 
+
+5gt4.dssp_H_12.dssp_OUTPUT.pdb :
+12.295 
+
+5gt4.dssp_H_9.dssp_OUTPUT.pdb :
+8.137 
+
+5gt4.dssp_H_11.dssp_OUTPUT.pdb :
+10.043 
+
+5gt4.dssp_H_8.dssp_OUTPUT.pdb :
+3.85 
+
+5gt4.dssp_G_5.dssp_OUTPUT.pdb :
+4.355 
+
+5gt4.dssp_H_13.dssp_OUTPUT.pdb :
+3.798 
+
+5gt4.dssp_G_2.dssp_OUTPUT.pdb :
+4.27 
+
+5gt4.dssp_H_4.dssp_OUTPUT.pdb :
+9.332 
+
+2hb8.dssp_H_11.dssp_OUTPUT.pdb :
+10.045 
+
+2hb8.dssp_G_2.dssp_OUTPUT.pdb :
+4.272 
+
+2hb8.dssp_G_7.dssp_OUTPUT.pdb :
+4.225 
+
+2hb8.dssp_H_9.dssp_OUTPUT.pdb :
+7.769 
+
+2hb8.dssp_H_10.dssp_OUTPUT.pdb :
+6.697 
+
+2hb8.dssp_H_3.dssp_OUTPUT.pdb :
+4.735 
+
+2hb8.dssp_H_6.dssp_OUTPUT.pdb :
+9.224 
+
+2hb8.dssp_H_8.dssp_OUTPUT.pdb :
+3.853 
+
+2hb8.dssp_G_13.dssp_OUTPUT.pdb :
+3.796 
+
+2hb8.dssp_H_4.dssp_OUTPUT.pdb :
+9.315 
+
+2hb8.dssp_G_5.dssp_OUTPUT.pdb :
+4.449 
+
+2hb8.dssp_H_1.dssp_OUTPUT.pdb :
+8.55 
+
+2hb8.dssp_G_6.dssp_OUTPUT.pdb :
+3.865 
+
+2hb8.dssp_H_12.dssp_OUTPUT.pdb :
+12.474 
+
+2hb8.dssp_H_14.dssp_OUTPUT.pdb :
+4.789 
+
+3cs6.dssp_H_9.dssp_OUTPUT.pdb :
+7.702 
+
+3cs6.dssp_H_4.dssp_OUTPUT.pdb :
+9.293 
+
+3cs6.dssp_H_6.dssp_OUTPUT.pdb :
+9.226 
+
+3cs6.dssp_H_10.dssp_OUTPUT.pdb :
+6.687 
+
+3cs6.dssp_H_1.dssp_OUTPUT.pdb :
+8.624 
+
+3cs6.dssp_H_3.dssp_OUTPUT.pdb :
+4.744 
+
+3cs6.dssp_G_2.dssp_OUTPUT.pdb :
+4.279 
+
+3cs6.dssp_H_14.dssp_OUTPUT.pdb :
+4.781 
+
+3cs6.dssp_G_7.dssp_OUTPUT.pdb :
+4.255 
+
+3cs6.dssp_H_12.dssp_OUTPUT.pdb :
+12.468 
+
+3cs6.dssp_H_8.dssp_OUTPUT.pdb :
+3.852 
+
+3cs6.dssp_H_13.dssp_OUTPUT.pdb :
+3.931 
+
+3cs6.dssp_H_11.dssp_OUTPUT.pdb :
+9.942 
+
+3cs6.dssp_G_6.dssp_OUTPUT.pdb :
+3.872 
+
+3cs6.dssp_G_5.dssp_OUTPUT.pdb :
+4.4 
+
+3cs4.dssp_H_3.dssp_OUTPUT.pdb :
+4.733 
+
+3cs4.dssp_G_6.dssp_OUTPUT.pdb :
+3.866 
+
+3cs4.dssp_G_5.dssp_OUTPUT.pdb :
+4.404 
+
+3cs4.dssp_H_4.dssp_OUTPUT.pdb :
+9.299 
+
+3cs4.dssp_H_1.dssp_OUTPUT.pdb :
+8.642 
+
+3cs4.dssp_H_12.dssp_OUTPUT.pdb :
+12.47 
+
+3cs4.dssp_H_10.dssp_OUTPUT.pdb :
+6.687 
+
+3cs4.dssp_G_2.dssp_OUTPUT.pdb :
+4.268 
+
+3cs4.dssp_H_6.dssp_OUTPUT.pdb :
+9.224 
+
+3cs4.dssp_H_13.dssp_OUTPUT.pdb :
+3.914 
+
+3cs4.dssp_H_14.dssp_OUTPUT.pdb :
+4.767 
+
+3cs4.dssp_H_11.dssp_OUTPUT.pdb :
+9.959 
+
+3cs4.dssp_G_7.dssp_OUTPUT.pdb :
+4.262 
+
+3cs4.dssp_H_8.dssp_OUTPUT.pdb :
+3.836 
+
+3cs4.dssp_H_9.dssp_OUTPUT.pdb :
+7.723 
+
+3wwr.dssp_G_6.dssp_OUTPUT.pdb :
+3.864 
+
+3wwr.dssp_H_4.dssp_OUTPUT.pdb :
+8.837 
+
+3wwr.dssp_H_9.dssp_OUTPUT.pdb :
+7.764 
+
+3wwr.dssp_H_6.dssp_OUTPUT.pdb :
+9.311 
+
+3wwr.dssp_H_14.dssp_OUTPUT.pdb :
+4.786 
+
+3wwr.dssp_G_2.dssp_OUTPUT.pdb :
+4.393 
+
+3wwr.dssp_G_5.dssp_OUTPUT.pdb :
+4.506 
+
+3wwr.dssp_H_12.dssp_OUTPUT.pdb :
+13.023 
+
+3wwr.dssp_H_13.dssp_OUTPUT.pdb :
+3.836 
+
+3wwr.dssp_H_8.dssp_OUTPUT.pdb :
+3.901 
+
+3wwr.dssp_G_7.dssp_OUTPUT.pdb :
+4.241 
+
+3wwr.dssp_H_3.dssp_OUTPUT.pdb :
+4.712 
+
+3wwr.dssp_H_11.dssp_OUTPUT.pdb :
+10.13 
+
+3wwr.dssp_H_1.dssp_OUTPUT.pdb :
+8.022 
+
+3wwr.dssp_H_10.dssp_OUTPUT.pdb :
+6.76 
+
+3b0t.dssp_H_11.dssp_OUTPUT.pdb :
+9.93 
+
+3b0t.dssp_H_14.dssp_OUTPUT.pdb :
+4.799 
+
+3b0t.dssp_H_1.dssp_OUTPUT.pdb :
+8.486 
+
+3b0t.dssp_G_5.dssp_OUTPUT.pdb :
+4.531 
+
+3b0t.dssp_H_10.dssp_OUTPUT.pdb :
+6.683 
+
+3b0t.dssp_H_9.dssp_OUTPUT.pdb :
+7.766 
+
+3b0t.dssp_G_6.dssp_OUTPUT.pdb :
+3.874 
+
+3b0t.dssp_G_7.dssp_OUTPUT.pdb :
+4.203 
+
+3b0t.dssp_H_12.dssp_OUTPUT.pdb :
+12.179 
+
+3b0t.dssp_H_6.dssp_OUTPUT.pdb :
+9.219 
+
+3b0t.dssp_H_8.dssp_OUTPUT.pdb :
+3.902 
+
+3b0t.dssp_G_2.dssp_OUTPUT.pdb :
+4.292 
+
+3b0t.dssp_H_4.dssp_OUTPUT.pdb :
+10.124 
+
+3b0t.dssp_H_3.dssp_OUTPUT.pdb :
+4.714 
+
+3b0t.dssp_H_13.dssp_OUTPUT.pdb :
+3.894 
+
+3x31.dssp_G_5.dssp_OUTPUT.pdb :
+4.543 
+
+3x31.dssp_H_1.dssp_OUTPUT.pdb :
+8.613 
+
+3x31.dssp_G_2.dssp_OUTPUT.pdb :
+4.289 
+
+3x31.dssp_H_8.dssp_OUTPUT.pdb :
+3.838 
+
+3x31.dssp_H_6.dssp_OUTPUT.pdb :
+9.244 
+
+3x31.dssp_H_14.dssp_OUTPUT.pdb :
+4.789 
+
+3x31.dssp_H_11.dssp_OUTPUT.pdb :
+9.938 
+
+3x31.dssp_H_3.dssp_OUTPUT.pdb :
+4.607 
+
+3x31.dssp_H_13.dssp_OUTPUT.pdb :
+3.993 
+
+3x31.dssp_H_10.dssp_OUTPUT.pdb :
+6.699 
+
+3x31.dssp_H_9.dssp_OUTPUT.pdb :
+8.091 
+
+3x31.dssp_H_12.dssp_OUTPUT.pdb :
+12.458 
+
+3x31.dssp_H_4.dssp_OUTPUT.pdb :
+9.327 
+
+3x31.dssp_G_7.dssp_OUTPUT.pdb :
+4.2 
+
+3x31.dssp_G_6.dssp_OUTPUT.pdb :
+3.893 
+
+3w0c.dssp_H_12.dssp_OUTPUT.pdb :
+12.161 
+
+3w0c.dssp_H_9.dssp_OUTPUT.pdb :
+8.234 
+
+3w0c.dssp_G_13.dssp_OUTPUT.pdb :
+3.809 
+
+3w0c.dssp_H_1.dssp_OUTPUT.pdb :
+8.493 
+
+3w0c.dssp_H_4.dssp_OUTPUT.pdb :
+9.37 
+
+3w0c.dssp_H_6.dssp_OUTPUT.pdb :
+9.488 
+
+3w0c.dssp_H_10.dssp_OUTPUT.pdb :
+6.697 
+
+3w0c.dssp_G_5.dssp_OUTPUT.pdb :
+4.583 
+
+3w0c.dssp_H_8.dssp_OUTPUT.pdb :
+3.863 
+
+3w0c.dssp_G_2.dssp_OUTPUT.pdb :
+4.284 
+
+3w0c.dssp_H_3.dssp_OUTPUT.pdb :
+4.764 
+
+3w0c.dssp_G_7.dssp_OUTPUT.pdb :
+4.237 
+
+3w0c.dssp_H_14.dssp_OUTPUT.pdb :
+4.81 
+
+3w0c.dssp_H_11.dssp_OUTPUT.pdb :
+9.993 
+
+1s19.dssp_G_6.dssp_OUTPUT.pdb :
+3.864 
+
+1s19.dssp_H_11.dssp_OUTPUT.pdb :
+10.1 
+
+1s19.dssp_H_10.dssp_OUTPUT.pdb :
+6.727 
+
+1s19.dssp_G_5.dssp_OUTPUT.pdb :
+4.442 
+
+1s19.dssp_G_7.dssp_OUTPUT.pdb :
+4.233 
+
+1s19.dssp_H_9.dssp_OUTPUT.pdb :
+8.125 
+
+1s19.dssp_H_8.dssp_OUTPUT.pdb :
+3.87 
+
+1s19.dssp_G_2.dssp_OUTPUT.pdb :
+4.299 
+
+1s19.dssp_H_3.dssp_OUTPUT.pdb :
+4.676 
+
+1s19.dssp_H_4.dssp_OUTPUT.pdb :
+9.349 
+
+1s19.dssp_H_6.dssp_OUTPUT.pdb :
+9.272 
+
+1s19.dssp_H_14.dssp_OUTPUT.pdb :
+4.779 
+
+1s19.dssp_H_12.dssp_OUTPUT.pdb :
+12.287 
+
+1s19.dssp_G_13.dssp_OUTPUT.pdb :
+3.781 
+
+1s19.dssp_H_1.dssp_OUTPUT.pdb :
+8.554 
+
+3a2j.dssp_H_3.dssp_OUTPUT.pdb :
+4.799 
+
+3a2j.dssp_H_12.dssp_OUTPUT.pdb :
+4.872 
+
+3a2j.dssp_H_1.dssp_OUTPUT.pdb :
+8.673 
+
+3a2j.dssp_H_7.dssp_OUTPUT.pdb :
+3.875 
+
+3a2j.dssp_G_5.dssp_OUTPUT.pdb :
+4.556 
+
+3a2j.dssp_G_6.dssp_OUTPUT.pdb :
+3.903 
+
+3a2j.dssp_H_6.dssp_OUTPUT.pdb :
+9.223 
+
+3a2j.dssp_H_4.dssp_OUTPUT.pdb :
+8.826 
+
+3a2j.dssp_H_9.dssp_OUTPUT.pdb :
+6.707 
+
+3a2j.dssp_H_10.dssp_OUTPUT.pdb :
+9.998 
+
+3a2j.dssp_H_8.dssp_OUTPUT.pdb :
+7.702 
+
+3a2j.dssp_H_11.dssp_OUTPUT.pdb :
+12.367 
+
+3a2j.dssp_G_2.dssp_OUTPUT.pdb :
+4.296 
+
+3a78.dssp_H_12.dssp_OUTPUT.pdb :
+12.425 
+
+3a78.dssp_H_10.dssp_OUTPUT.pdb :
+6.673 
+
+3a78.dssp_H_4.dssp_OUTPUT.pdb :
+9.286 
+
+3a78.dssp_G_7.dssp_OUTPUT.pdb :
+4.293 
+
+3a78.dssp_H_11.dssp_OUTPUT.pdb :
+9.94 
+
+3a78.dssp_G_2.dssp_OUTPUT.pdb :
+4.302 
+
+3a78.dssp_H_13.dssp_OUTPUT.pdb :
+3.957 
+
+3a78.dssp_H_9.dssp_OUTPUT.pdb :
+8.272 
+
+3a78.dssp_H_14.dssp_OUTPUT.pdb :
+4.801 
+
+3a78.dssp_H_1.dssp_OUTPUT.pdb :
+8.501 
+
+3a78.dssp_H_6.dssp_OUTPUT.pdb :
+9.193 
+
+3a78.dssp_H_8.dssp_OUTPUT.pdb :
+3.968 
+
+3a78.dssp_G_6.dssp_OUTPUT.pdb :
+3.79 
+
+3a78.dssp_G_5.dssp_OUTPUT.pdb :
+4.486 
+
+3a78.dssp_H_3.dssp_OUTPUT.pdb :
+4.741 
+
+3wgp.dssp_G_6.dssp_OUTPUT.pdb :
+3.896 
+
+3wgp.dssp_H_1.dssp_OUTPUT.pdb :
+8.546 
+
+3wgp.dssp_H_14.dssp_OUTPUT.pdb :
+4.791 
+
+3wgp.dssp_G_5.dssp_OUTPUT.pdb :
+4.557 
+
+3wgp.dssp_G_7.dssp_OUTPUT.pdb :
+4.286 
+
+3wgp.dssp_H_13.dssp_OUTPUT.pdb :
+3.964 
+
+3wgp.dssp_H_12.dssp_OUTPUT.pdb :
+12.461 
+
+3wgp.dssp_H_8.dssp_OUTPUT.pdb :
+3.883 
+
+3wgp.dssp_G_2.dssp_OUTPUT.pdb :
+4.305 
+
+3wgp.dssp_H_6.dssp_OUTPUT.pdb :
+9.209 
+
+3wgp.dssp_H_3.dssp_OUTPUT.pdb :
+4.789 
+
+3wgp.dssp_H_4.dssp_OUTPUT.pdb :
+9.303 
+
+3wgp.dssp_H_10.dssp_OUTPUT.pdb :
+6.687 
+
+3wgp.dssp_H_9.dssp_OUTPUT.pdb :
+7.79 
+
+3wgp.dssp_H_11.dssp_OUTPUT.pdb :
+9.936 
+
+1ie8.dssp_H_10.dssp_OUTPUT.pdb :
+6.682 
+
+1ie8.dssp_H_12.dssp_OUTPUT.pdb :
+12.441 
+
+1ie8.dssp_H_1.dssp_OUTPUT.pdb :
+8.492 
+
+1ie8.dssp_H_14.dssp_OUTPUT.pdb :
+4.787 
+
+1ie8.dssp_G_2.dssp_OUTPUT.pdb :
+4.279 
+
+1ie8.dssp_H_11.dssp_OUTPUT.pdb :
+9.946 
+
+1ie8.dssp_G_7.dssp_OUTPUT.pdb :
+4.235 
+
+1ie8.dssp_H_8.dssp_OUTPUT.pdb :
+3.838 
+
+1ie8.dssp_H_9.dssp_OUTPUT.pdb :
+8.163 
+
+1ie8.dssp_G_6.dssp_OUTPUT.pdb :
+3.884 
+
+1ie8.dssp_H_3.dssp_OUTPUT.pdb :
+4.669 
+
+1ie8.dssp_G_13.dssp_OUTPUT.pdb :
+3.853 
+
+1ie8.dssp_H_4.dssp_OUTPUT.pdb :
+9.296 
+
+1ie8.dssp_H_6.dssp_OUTPUT.pdb :
+9.213 
+
+1ie8.dssp_G_5.dssp_OUTPUT.pdb :
+4.436 
+
+1ie9.dssp_H_13.dssp_OUTPUT.pdb :
+3.932 
+
+1ie9.dssp_H_8.dssp_OUTPUT.pdb :
+3.846 
+
+1ie9.dssp_G_7.dssp_OUTPUT.pdb :
+4.116 
+
+1ie9.dssp_H_12.dssp_OUTPUT.pdb :
+12.17 
+
+1ie9.dssp_G_6.dssp_OUTPUT.pdb :
+3.866 
+
+1ie9.dssp_H_14.dssp_OUTPUT.pdb :
+4.79 
+
+1ie9.dssp_G_2.dssp_OUTPUT.pdb :
+4.285 
+
+1ie9.dssp_H_1.dssp_OUTPUT.pdb :
+8.562 
+
+1ie9.dssp_G_5.dssp_OUTPUT.pdb :
+4.551 
+
+1ie9.dssp_H_11.dssp_OUTPUT.pdb :
+9.951 
+
+1ie9.dssp_H_4.dssp_OUTPUT.pdb :
+9.301 
+
+1ie9.dssp_H_10.dssp_OUTPUT.pdb :
+6.65 
+
+1ie9.dssp_H_3.dssp_OUTPUT.pdb :
+4.805 
+
+1ie9.dssp_H_9.dssp_OUTPUT.pdb :
+7.666 
+
+1ie9.dssp_H_6.dssp_OUTPUT.pdb :
+9.24 
+
+4itf.dssp_G_5.dssp_OUTPUT.pdb :
+4.534 
+
+4itf.dssp_H_6.dssp_OUTPUT.pdb :
+9.194 
+
+4itf.dssp_H_10.dssp_OUTPUT.pdb :
+6.648 
+
+4itf.dssp_H_1.dssp_OUTPUT.pdb :
+8.616 
+
+4itf.dssp_H_3.dssp_OUTPUT.pdb :
+4.824 
+
+4itf.dssp_H_8.dssp_OUTPUT.pdb :
+3.822 
+
+4itf.dssp_H_4.dssp_OUTPUT.pdb :
+9.322 
+
+4itf.dssp_H_9.dssp_OUTPUT.pdb :
+8.55 
+
+4itf.dssp_G_6.dssp_OUTPUT.pdb :
+3.905 
+
+4itf.dssp_H_12.dssp_OUTPUT.pdb :
+12.402 
+
+4itf.dssp_G_13.dssp_OUTPUT.pdb :
+3.64 
+
+4itf.dssp_H_11.dssp_OUTPUT.pdb :
+10.007 
+
+4itf.dssp_H_14.dssp_OUTPUT.pdb :
+4.821 
+
+4itf.dssp_G_2.dssp_OUTPUT.pdb :
+4.244 
+
+4itf.dssp_G_7.dssp_OUTPUT.pdb :
+4.221 
+
+4g2i.dssp_H_1.dssp_OUTPUT.pdb :
+8.469 
+
+4g2i.dssp_H_6.dssp_OUTPUT.pdb :
+9.207 
+
+4g2i.dssp_G_2.dssp_OUTPUT.pdb :
+4.292 
+
+4g2i.dssp_H_11.dssp_OUTPUT.pdb :
+10.058 
+
+4g2i.dssp_H_3.dssp_OUTPUT.pdb :
+4.672 
+
+4g2i.dssp_H_8.dssp_OUTPUT.pdb :
+3.834 
+
+4g2i.dssp_H_12.dssp_OUTPUT.pdb :
+12.483 
+
+4g2i.dssp_H_4.dssp_OUTPUT.pdb :
+9.268 
+
+4g2i.dssp_H_9.dssp_OUTPUT.pdb :
+7.623 
+
+4g2i.dssp_G_7.dssp_OUTPUT.pdb :
+4.264 
+
+4g2i.dssp_G_13.dssp_OUTPUT.pdb :
+3.802 
+
+4g2i.dssp_G_5.dssp_OUTPUT.pdb :
+4.529 
+
+4g2i.dssp_H_10.dssp_OUTPUT.pdb :
+6.676 
+
+4g2i.dssp_H_14.dssp_OUTPUT.pdb :
+4.798 
+
+4g2i.dssp_G_6.dssp_OUTPUT.pdb :
+3.862 
+
+3ax8.dssp_H_1.dssp_OUTPUT.pdb :
+8.734 
+
+3ax8.dssp_G_6.dssp_OUTPUT.pdb :
+3.923 
+
+3ax8.dssp_H_9.dssp_OUTPUT.pdb :
+8.13 
+
+3ax8.dssp_H_11.dssp_OUTPUT.pdb :
+10.036 
+
+3ax8.dssp_G_2.dssp_OUTPUT.pdb :
+4.319 
+
+3ax8.dssp_G_7.dssp_OUTPUT.pdb :
+4.281 
+
+3ax8.dssp_G_5.dssp_OUTPUT.pdb :
+4.566 
+
+3ax8.dssp_G_13.dssp_OUTPUT.pdb :
+3.592 
+
+3ax8.dssp_H_10.dssp_OUTPUT.pdb :
+6.664 
+
+3ax8.dssp_H_4.dssp_OUTPUT.pdb :
+9.295 
+
+3ax8.dssp_H_14.dssp_OUTPUT.pdb :
+4.814 
+
+3ax8.dssp_H_3.dssp_OUTPUT.pdb :
+4.757 
+
+3ax8.dssp_H_12.dssp_OUTPUT.pdb :
+12.594 
+
+3ax8.dssp_H_8.dssp_OUTPUT.pdb :
+3.843 
+
+3ax8.dssp_H_6.dssp_OUTPUT.pdb :
+9.209 
+
+2har.dssp_H_3.dssp_OUTPUT.pdb :
+4.723 
+
+2har.dssp_H_7.dssp_OUTPUT.pdb :
+3.837 
+
+2har.dssp_G_2.dssp_OUTPUT.pdb :
+4.253 
+
+2har.dssp_H_1.dssp_OUTPUT.pdb :
+8.589 
+
+2har.dssp_H_13.dssp_OUTPUT.pdb :
+4.77 
+
+2har.dssp_H_8.dssp_OUTPUT.pdb :
+7.748 
+
+2har.dssp_H_6.dssp_OUTPUT.pdb :
+9.201 
+
+2har.dssp_G_5.dssp_OUTPUT.pdb :
+4.406 
+
+2har.dssp_G_6.dssp_OUTPUT.pdb :
+3.856 
+
+2har.dssp_H_9.dssp_OUTPUT.pdb :
+6.667 
+
+2har.dssp_H_4.dssp_OUTPUT.pdb :
+9.262 
+
+2har.dssp_H_11.dssp_OUTPUT.pdb :
+13.766 
+
+2har.dssp_H_10.dssp_OUTPUT.pdb :
+9.951 
+
+2har.dssp_H_12.dssp_OUTPUT.pdb :
+3.87 
+
+3w0a.dssp_G_2.dssp_OUTPUT.pdb :
+4.312 
+
+3w0a.dssp_H_6.dssp_OUTPUT.pdb :
+9.496 
+
+3w0a.dssp_H_1.dssp_OUTPUT.pdb :
+8.587 
+
+3w0a.dssp_H_14.dssp_OUTPUT.pdb :
+4.807 
+
+3w0a.dssp_G_7.dssp_OUTPUT.pdb :
+4.265 
+
+3w0a.dssp_H_13.dssp_OUTPUT.pdb :
+3.992 
+
+3w0a.dssp_H_9.dssp_OUTPUT.pdb :
+7.835 
+
+3w0a.dssp_H_4.dssp_OUTPUT.pdb :
+9.364 
+
+3w0a.dssp_H_10.dssp_OUTPUT.pdb :
+6.703 
+
+3w0a.dssp_H_12.dssp_OUTPUT.pdb :
+12.468 
+
+3w0a.dssp_H_8.dssp_OUTPUT.pdb :
+3.887 
+
+3w0a.dssp_G_5.dssp_OUTPUT.pdb :
+4.579 
+
+3w0a.dssp_H_11.dssp_OUTPUT.pdb :
+10.029 
+
+3w0a.dssp_H_3.dssp_OUTPUT.pdb :
+4.721 
+
+3m7r.dssp_H_11.dssp_OUTPUT.pdb :
+9.914 
+
+3m7r.dssp_H_10.dssp_OUTPUT.pdb :
+6.661 
+
+3m7r.dssp_H_12.dssp_OUTPUT.pdb :
+12.422 
+
+3m7r.dssp_G_5.dssp_OUTPUT.pdb :
+4.535 
+
+3m7r.dssp_G_6.dssp_OUTPUT.pdb :
+3.86 
+
+3m7r.dssp_H_8.dssp_OUTPUT.pdb :
+3.835 
+
+3m7r.dssp_H_3.dssp_OUTPUT.pdb :
+4.659 
+
+3m7r.dssp_G_7.dssp_OUTPUT.pdb :
+4.222 
+
+3m7r.dssp_H_1.dssp_OUTPUT.pdb :
+8.456 
+
+3m7r.dssp_H_13.dssp_OUTPUT.pdb :
+3.922 
+
+3m7r.dssp_H_14.dssp_OUTPUT.pdb :
+4.77 
+
+3m7r.dssp_G_2.dssp_OUTPUT.pdb :
+4.277 
+
+3m7r.dssp_H_6.dssp_OUTPUT.pdb :
+9.197 
+
+3m7r.dssp_H_9.dssp_OUTPUT.pdb :
+8.194 
+
+3m7r.dssp_H_4.dssp_OUTPUT.pdb :
+9.278 
+
+3w0y.dssp_G_7.dssp_OUTPUT.pdb :
+4.324 
+
+3w0y.dssp_G_2.dssp_OUTPUT.pdb :
+4.35 
+
+3w0y.dssp_G_5.dssp_OUTPUT.pdb :
+4.532 
+
+3w0y.dssp_H_8.dssp_OUTPUT.pdb :
+3.875 
+
+3w0y.dssp_H_1.dssp_OUTPUT.pdb :
+8.533 
+
+3w0y.dssp_G_6.dssp_OUTPUT.pdb :
+3.923 
+
+3w0y.dssp_H_9.dssp_OUTPUT.pdb :
+7.798 
+
+3w0y.dssp_H_4.dssp_OUTPUT.pdb :
+9.413 
+
+3w0y.dssp_H_12.dssp_OUTPUT.pdb :
+12.441 
+
+3w0y.dssp_H_14.dssp_OUTPUT.pdb :
+4.847 
+
+3w0y.dssp_H_11.dssp_OUTPUT.pdb :
+9.994 
+
+3w0y.dssp_H_6.dssp_OUTPUT.pdb :
+9.241 
+
+3w0y.dssp_H_10.dssp_OUTPUT.pdb :
+6.678 
+
+3w0y.dssp_H_3.dssp_OUTPUT.pdb :
+4.755 
+
+3w0y.dssp_G_13.dssp_OUTPUT.pdb :
+3.864 
+
+3a2i.dssp_H_11.dssp_OUTPUT.pdb :
+12.439 
+
+3a2i.dssp_G_12.dssp_OUTPUT.pdb :
+3.878 
+
+3a2i.dssp_H_10.dssp_OUTPUT.pdb :
+9.988 
+
+3a2i.dssp_H_1.dssp_OUTPUT.pdb :
+8.652 
+
+3a2i.dssp_G_6.dssp_OUTPUT.pdb :
+3.922 
+
+3a2i.dssp_H_7.dssp_OUTPUT.pdb :
+3.844 
+
+3a2i.dssp_H_3.dssp_OUTPUT.pdb :
+4.81 
+
+3a2i.dssp_H_13.dssp_OUTPUT.pdb :
+4.834 
+
+3a2i.dssp_G_2.dssp_OUTPUT.pdb :
+4.253 
+
+3a2i.dssp_H_4.dssp_OUTPUT.pdb :
+8.831 
+
+3a2i.dssp_G_5.dssp_OUTPUT.pdb :
+4.59 
+
+3a2i.dssp_H_8.dssp_OUTPUT.pdb :
+7.68 
+
+3a2i.dssp_H_9.dssp_OUTPUT.pdb :
+6.738 
+
+3a2i.dssp_H_6.dssp_OUTPUT.pdb :
+9.256 
+
+1db1.dssp_H_3.dssp_OUTPUT.pdb :
+4.676 
+
+1db1.dssp_H_10.dssp_OUTPUT.pdb :
+6.723 
+
+1db1.dssp_H_12.dssp_OUTPUT.pdb :
+12.582 
+
+1db1.dssp_H_9.dssp_OUTPUT.pdb :
+8.228 
+
+1db1.dssp_H_6.dssp_OUTPUT.pdb :
+9.275 
+
+1db1.dssp_H_11.dssp_OUTPUT.pdb :
+10.047 
+
+1db1.dssp_G_13.dssp_OUTPUT.pdb :
+3.777 
+
+1db1.dssp_H_1.dssp_OUTPUT.pdb :
+8.553 
+
+1db1.dssp_H_8.dssp_OUTPUT.pdb :
+3.86 
+
+1db1.dssp_G_7.dssp_OUTPUT.pdb :
+4.236 
+
+1db1.dssp_H_4.dssp_OUTPUT.pdb :
+9.352 
+
+1db1.dssp_H_14.dssp_OUTPUT.pdb :
+4.81 
+
+1db1.dssp_G_2.dssp_OUTPUT.pdb :
+4.276 
+
+1db1.dssp_G_6.dssp_OUTPUT.pdb :
+3.86 
+
+1db1.dssp_G_5.dssp_OUTPUT.pdb :
+4.432 
+
+3aur.dssp_G_5.dssp_OUTPUT.pdb :
+4.531 
+
+3aur.dssp_G_6.dssp_OUTPUT.pdb :
+3.934 
+
+3aur.dssp_H_3.dssp_OUTPUT.pdb :
+4.712 
+
+3aur.dssp_G_7.dssp_OUTPUT.pdb :
+4.138 
+
+3aur.dssp_H_6.dssp_OUTPUT.pdb :
+9.178 
+
+3aur.dssp_H_9.dssp_OUTPUT.pdb :
+8.515 
+
+3aur.dssp_H_10.dssp_OUTPUT.pdb :
+6.69 
+
+3aur.dssp_G_13.dssp_OUTPUT.pdb :
+3.758 
+
+3aur.dssp_H_12.dssp_OUTPUT.pdb :
+12.143 
+
+3aur.dssp_H_1.dssp_OUTPUT.pdb :
+8.709 
+
+3aur.dssp_G_2.dssp_OUTPUT.pdb :
+4.271 
+
+3aur.dssp_H_4.dssp_OUTPUT.pdb :
+9.341 
+
+3aur.dssp_H_14.dssp_OUTPUT.pdb :
+4.806 
+
+3aur.dssp_H_8.dssp_OUTPUT.pdb :
+3.842 
+
+3aur.dssp_G_12.dssp_OUTPUT.pdb :
+3.233 
+
+3aur.dssp_H_11.dssp_OUTPUT.pdb :
+10.037 
+
+2hb7.dssp_H_14.dssp_OUTPUT.pdb :
+4.787 
+
+2hb7.dssp_H_6.dssp_OUTPUT.pdb :
+9.226 
+
+2hb7.dssp_H_10.dssp_OUTPUT.pdb :
+6.691 
+
+2hb7.dssp_H_13.dssp_OUTPUT.pdb :
+3.937 
+
+2hb7.dssp_G_7.dssp_OUTPUT.pdb :
+4.28 
+
+2hb7.dssp_H_1.dssp_OUTPUT.pdb :
+8.676 
+
+2hb7.dssp_H_3.dssp_OUTPUT.pdb :
+4.741 
+
+2hb7.dssp_H_11.dssp_OUTPUT.pdb :
+9.959 
+
+2hb7.dssp_G_2.dssp_OUTPUT.pdb :
+4.261 
+
+2hb7.dssp_H_4.dssp_OUTPUT.pdb :
+9.293 
+
+2hb7.dssp_G_6.dssp_OUTPUT.pdb :
+3.861 
+
+2hb7.dssp_H_8.dssp_OUTPUT.pdb :
+3.843 
+
+2hb7.dssp_G_5.dssp_OUTPUT.pdb :
+4.408 
+
+2hb7.dssp_H_9.dssp_OUTPUT.pdb :
+7.753 
+
+2hb7.dssp_H_12.dssp_OUTPUT.pdb :
+12.917 
+
+3auq.dssp_H_11.dssp_OUTPUT.pdb :
+12.184 
+
+3auq.dssp_H_9.dssp_OUTPUT.pdb :
+6.704 
+
+3auq.dssp_H_8.dssp_OUTPUT.pdb :
+7.754 
+
+3auq.dssp_G_5.dssp_OUTPUT.pdb :
+4.376 
+
+3auq.dssp_G_12.dssp_OUTPUT.pdb :
+3.656 
+
+3auq.dssp_H_4.dssp_OUTPUT.pdb :
+9.363 
+
+3auq.dssp_H_13.dssp_OUTPUT.pdb :
+4.824 
+
+3auq.dssp_G_6.dssp_OUTPUT.pdb :
+3.936 
+
+3auq.dssp_H_6.dssp_OUTPUT.pdb :
+9.238 
+
+3auq.dssp_G_2.dssp_OUTPUT.pdb :
+4.294 
+
+3auq.dssp_H_1.dssp_OUTPUT.pdb :
+8.688 
+
+3auq.dssp_H_7.dssp_OUTPUT.pdb :
+3.862 
+
+3auq.dssp_H_10.dssp_OUTPUT.pdb :
+10.076 
+
+3auq.dssp_H_3.dssp_OUTPUT.pdb :
+4.761 
+
+2ham.dssp_H_12.dssp_OUTPUT.pdb :
+13.746 
+
+2ham.dssp_H_14.dssp_OUTPUT.pdb :
+4.763 
+
+2ham.dssp_H_9.dssp_OUTPUT.pdb :
+7.752 
+
+2ham.dssp_G_2.dssp_OUTPUT.pdb :
+4.267 
+
+2ham.dssp_H_4.dssp_OUTPUT.pdb :
+9.272 
+
+2ham.dssp_H_8.dssp_OUTPUT.pdb :
+3.828 
+
+2ham.dssp_G_5.dssp_OUTPUT.pdb :
+4.413 
+
+2ham.dssp_H_11.dssp_OUTPUT.pdb :
+9.96 
+
+2ham.dssp_H_6.dssp_OUTPUT.pdb :
+9.19 
+
+2ham.dssp_H_1.dssp_OUTPUT.pdb :
+8.618 
+
+2ham.dssp_G_6.dssp_OUTPUT.pdb :
+3.859 
+
+2ham.dssp_G_7.dssp_OUTPUT.pdb :
+4.26 
+
+2ham.dssp_H_3.dssp_OUTPUT.pdb :
+4.722 
+
+2ham.dssp_H_13.dssp_OUTPUT.pdb :
+3.915 
+
+2ham.dssp_H_10.dssp_OUTPUT.pdb :
+6.662 
+
+2has.dssp_H_14.dssp_OUTPUT.pdb :
+4.791 
+
+2has.dssp_H_11.dssp_OUTPUT.pdb :
+9.993 
+
+2has.dssp_G_7.dssp_OUTPUT.pdb :
+4.228 
+
+2has.dssp_H_1.dssp_OUTPUT.pdb :
+8.637 
+
+2has.dssp_H_9.dssp_OUTPUT.pdb :
+7.754 
+
+2has.dssp_H_3.dssp_OUTPUT.pdb :
+4.692 
+
+2has.dssp_H_6.dssp_OUTPUT.pdb :
+9.208 
+
+2has.dssp_H_4.dssp_OUTPUT.pdb :
+9.305 
+
+2has.dssp_H_10.dssp_OUTPUT.pdb :
+6.679 
+
+2has.dssp_G_2.dssp_OUTPUT.pdb :
+4.264 
+
+2has.dssp_G_5.dssp_OUTPUT.pdb :
+4.404 
+
+2has.dssp_G_6.dssp_OUTPUT.pdb :
+3.873 
+
+2has.dssp_H_8.dssp_OUTPUT.pdb :
+3.837 
+
+2has.dssp_H_12.dssp_OUTPUT.pdb :
+13.781 
+
+2has.dssp_H_13.dssp_OUTPUT.pdb :
+3.939 
+
+3az1.dssp_H_1.dssp_OUTPUT.pdb :
+8.514 
+
+3az1.dssp_H_6.dssp_OUTPUT.pdb :
+9.498 
+
+3az1.dssp_H_12.dssp_OUTPUT.pdb :
+12.459 
+
+3az1.dssp_H_14.dssp_OUTPUT.pdb :
+4.802 
+
+3az1.dssp_G_7.dssp_OUTPUT.pdb :
+4.303 
+
+3az1.dssp_G_13.dssp_OUTPUT.pdb :
+3.95 
+
+3az1.dssp_G_2.dssp_OUTPUT.pdb :
+4.289 
+
+3az1.dssp_H_11.dssp_OUTPUT.pdb :
+9.971 
+
+3az1.dssp_H_3.dssp_OUTPUT.pdb :
+4.72 
+
+3az1.dssp_H_9.dssp_OUTPUT.pdb :
+7.809 
+
+3az1.dssp_H_8.dssp_OUTPUT.pdb :
+3.841 
+
+3az1.dssp_G_5.dssp_OUTPUT.pdb :
+4.496 
+
+3az1.dssp_H_4.dssp_OUTPUT.pdb :
+9.333 
+
+3az1.dssp_H_10.dssp_OUTPUT.pdb :
+6.706 
+
+3kpz.dssp_H_11.dssp_OUTPUT.pdb :
+9.958 
+
+3kpz.dssp_G_5.dssp_OUTPUT.pdb :
+4.478 
+
+3kpz.dssp_H_6.dssp_OUTPUT.pdb :
+9.242 
+
+3kpz.dssp_H_1.dssp_OUTPUT.pdb :
+8.496 
+
+3kpz.dssp_H_14.dssp_OUTPUT.pdb :
+4.804 
+
+3kpz.dssp_G_2.dssp_OUTPUT.pdb :
+4.272 
+
+3kpz.dssp_H_12.dssp_OUTPUT.pdb :
+12.47 
+
+3kpz.dssp_H_10.dssp_OUTPUT.pdb :
+6.688 
+
+3kpz.dssp_H_4.dssp_OUTPUT.pdb :
+9.312 
+
+3kpz.dssp_H_3.dssp_OUTPUT.pdb :
+4.672 
+
+3kpz.dssp_G_7.dssp_OUTPUT.pdb :
+4.176 
+
+3kpz.dssp_H_8.dssp_OUTPUT.pdb :
+3.825 
+
+3kpz.dssp_G_13.dssp_OUTPUT.pdb :
+3.894 
+
+3kpz.dssp_H_9.dssp_OUTPUT.pdb :
+8.545 
+
+3kpz.dssp_G_6.dssp_OUTPUT.pdb :
+3.871 
+
+3x36.dssp_G_2.dssp_OUTPUT.pdb :
+4.306 
+
+3x36.dssp_H_10.dssp_OUTPUT.pdb :
+10.043 
+
+3x36.dssp_G_6.dssp_OUTPUT.pdb :
+3.886 
+
+3x36.dssp_H_1.dssp_OUTPUT.pdb :
+8.509 
+
+3x36.dssp_H_9.dssp_OUTPUT.pdb :
+6.692 
+
+3x36.dssp_H_8.dssp_OUTPUT.pdb :
+8.205 
+
+3x36.dssp_H_3.dssp_OUTPUT.pdb :
+3.964 
+
+3x36.dssp_H_11.dssp_OUTPUT.pdb :
+12.225 
+
+3x36.dssp_H_13.dssp_OUTPUT.pdb :
+4.789 
+
+3x36.dssp_G_11.dssp_OUTPUT.pdb :
+3.61 
+
+3x36.dssp_H_6.dssp_OUTPUT.pdb :
+9.516 
+
+3x36.dssp_H_4.dssp_OUTPUT.pdb :
+9.733 
+
+3x36.dssp_H_12.dssp_OUTPUT.pdb :
+3.709 
+
+3x36.dssp_G_5.dssp_OUTPUT.pdb :
+4.456 
+
+3x36.dssp_H_7.dssp_OUTPUT.pdb :
+3.843 
+
+1s0z.dssp_H_12.dssp_OUTPUT.pdb :
+12.275 
+
+1s0z.dssp_G_6.dssp_OUTPUT.pdb :
+3.829 
+
+1s0z.dssp_G_5.dssp_OUTPUT.pdb :
+4.425 
+
+1s0z.dssp_G_13.dssp_OUTPUT.pdb :
+3.786 
+
+1s0z.dssp_H_3.dssp_OUTPUT.pdb :
+4.672 
+
+1s0z.dssp_G_7.dssp_OUTPUT.pdb :
+4.221 
+
+1s0z.dssp_H_6.dssp_OUTPUT.pdb :
+9.249 
+
+1s0z.dssp_H_10.dssp_OUTPUT.pdb :
+6.697 
+
+1s0z.dssp_H_8.dssp_OUTPUT.pdb :
+3.876 
+
+1s0z.dssp_H_1.dssp_OUTPUT.pdb :
+8.59 
+
+1s0z.dssp_H_11.dssp_OUTPUT.pdb :
+10.008 
+
+1s0z.dssp_H_4.dssp_OUTPUT.pdb :
+9.357 
+
+1s0z.dssp_G_2.dssp_OUTPUT.pdb :
+4.316 
+
+1s0z.dssp_H_9.dssp_OUTPUT.pdb :
+7.814 
+
+1s0z.dssp_H_14.dssp_OUTPUT.pdb :
+4.8 
+
+3a3z.dssp_G_6.dssp_OUTPUT.pdb :
+3.891 
+
+3a3z.dssp_H_1.dssp_OUTPUT.pdb :
+9.019 
+
+3a3z.dssp_G_7.dssp_OUTPUT.pdb :
+4.181 
+
+3a3z.dssp_H_8.dssp_OUTPUT.pdb :
+3.887 
+
+3a3z.dssp_H_9.dssp_OUTPUT.pdb :
+7.76 
+
+3a3z.dssp_H_6.dssp_OUTPUT.pdb :
+9.311 
+
+3a3z.dssp_H_11.dssp_OUTPUT.pdb :
+9.939 
+
+3a3z.dssp_G_2.dssp_OUTPUT.pdb :
+4.289 
+
+3a3z.dssp_H_4.dssp_OUTPUT.pdb :
+9.363 
+
+3a3z.dssp_H_10.dssp_OUTPUT.pdb :
+6.727 
+
+3a3z.dssp_H_12.dssp_OUTPUT.pdb :
+12.186 
+
+3a3z.dssp_G_5.dssp_OUTPUT.pdb :
+4.533 
+
+3a3z.dssp_H_3.dssp_OUTPUT.pdb :
+4.769 
+
+3a3z.dssp_G_13.dssp_OUTPUT.pdb :
+4.047 
+
+3a3z.dssp_H_14.dssp_OUTPUT.pdb :
+4.824 
+
