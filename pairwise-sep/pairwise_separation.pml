@@ -1,5 +1,5 @@
 # run the script which calculate COM (define the command com)
-run /home/muniba/Desktop/center_of_mass.py
+run center_of_mass.py
 
 fetch 5yt2
 hide all
@@ -34,7 +34,7 @@ import csv
 
 f=open('dist.txt','a')
 
-dh1=cmd.get_dihedral('tmp, /H6_COM/PSDO/P/PSD`1/PS1','/H7_COM/PSDO/P/PSD`1/PS1','/Hx_COM/PSDO/P/PSD`1/PS1','/H12_COM/PSDO/P/PSD`1/PS1')
+dst1=cmd.distance('tmp, /H6_COM/PSDO/P/PSD`1/PS1','/H7_COM/PSDO/P/PSD`1/PS1')
 dst2=cmd.distance('tmp, /H6_COM/PSDO/P/PSD`1/PS1','/Hx_COM/PSDO/P/PSD`1/PS1')
 dst3=cmd.distance('tmp, /H6_COM/PSDO/P/PSD`1/PS1','/H12_COM/PSDO/P/PSD`1/PS1')
 dst4=cmd.distance('tmp, /H7_COM/PSDO/P/PSD`1/PS1','/Hx_COM/PSDO/P/PSD`1/PS1')

@@ -5,6 +5,7 @@ import sys
 
 def Rg(filename):
 	'''
+	Author: sarisabban (https://github.com/sarisabban/Rg/blob/master/Rg.py)
 	Calculates the Radius of Gyration (Rg) of a protein given its .pdb 
 	structure file. Returns the Rg integer value in Angstrom.
 	'''

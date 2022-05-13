@@ -22,7 +22,6 @@ pdb_path = os.getcwd()+"/../step2-convert-dssp-to-pdb/output"
 
 pdb_folder_list = os.listdir(pdb_path)
 
-# pymol.cmd.run("anglebetweenhelices.py")
 
 output = open("result.tsv", "a")
 
@@ -59,15 +58,9 @@ for dssp_folder in pdb_folder_list:
 
 
         for next_helix in helix_list:
-            # # print("File number is ", file_number)
+            
             try:
                 helix2_path = os.path.join(os.getcwd()+"/../step2-convert-dssp-to-pdb/output/"+dssp_folder+"/"+next_helix)
-
-                # print("H1: ", os.path.join(os.getcwd()+"/../step2-convert-dssp-to-pdb/output/"+dssp_folder+"/"+helix))
-
-                # print("H2: ",os.path.join(os.getcwd()+"/../step2-convert-dssp-to-pdb/output/"+dssp_folder+"/"+helix_list[file_number+1]))
-
-                # print("H3: ", os.path.join(os.getcwd()+"/../step2-convert-dssp-to-pdb/output/"+dssp_folder+"/"+helix_list[file_number+2]))
 
                 j = 0
                 with open(helix2_path, "r") as src_file2:
@@ -86,7 +79,6 @@ for dssp_folder in pdb_folder_list:
                 for third_helix in helix_list:
                     helix3_path = os.path.join(os.getcwd()+"/../step2-convert-dssp-to-pdb/output/"+dssp_folder+"/"+third_helix)
                 
-                    # print("helix_3 Path: ---", helix3_path)
                     k = 0
                     with open(helix3_path, "r") as src_file3:
                         for line3 in src_file3:
@@ -100,8 +92,7 @@ for dssp_folder in pdb_folder_list:
                             Ch3 = line_array3[4]
                             res13 = line_array3[3]
 
-                # print(helix," - ", helix_list[file_number+1], "  - ", helix_list[file_number+2])
-
+                
                     pymol.cmd.reinitialize('everything')            
                     pymol.cmd.load(helix1_path, "C1")
                     pymol.cmd.load(helix2_path, "C2")
@@ -117,7 +108,7 @@ for dssp_folder in pdb_folder_list:
 
                     g = io.StringIO()
                     with redirect_stdout(g):
-                        #print(pymol.cmd.do("edit ",com1,",",com2,",",com3,",",com4,0,0))
+                        
                         pymol.cmd.do("get_dihedral /C1//"+Ch1+"/"+helix1_residue_end+"`"+helix1_end+"/CA, /C2//"+Ch2+"/"+helix2_residue_start+"`"+helix2_start+"/CA, /C2//"+Ch2+"/"+helix2_residue_end+"`"+helix2_end+"/CA, /C3//"+Ch3+"/"+helix3_residue_start+"`"+helix3_start+"/CA",0,0)
 
                         command2  = "get_dihedral /C1//"+Ch1+"/"+helix1_residue_end+"`"+helix1_end+"/CA, /C2//"+Ch2+"/"+helix2_residue_start+"`"+helix2_start+"/CA, /C2//"+Ch2+"/"+helix2_residue_end+"`"+helix2_end+"/CA, /C3//"+Ch3+"/"+helix3_residue_start+"`"+helix3_start+"/CA"
@@ -187,7 +178,6 @@ for dssp_folder in pdb_folder_list:
 
         print("\n\n\n\n\n\n\n\n")
 
-#output.close()
            
           
 

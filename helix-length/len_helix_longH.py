@@ -35,15 +35,10 @@ for helix in helix_files:
 
                     CA_Coord = []
                     for residue in chain:
-                        #CA_coordinates = np.append(CA_coordinates, residue['CA'].get_vector())
-                        # print(residue['CA'])
+                        
                         CA_Coord.append((residue['CA'].get_vector()))
 
-                    """print(CA_Coord)
-                    print("\n-----------------")
-                    print(CA_Coord[0])
-                    print(CA_Coord[-1])
-                    """
+                    
                     x1 = CA_Coord[0][0]
                     y1 = CA_Coord[0][1]
                     z1 = CA_Coord[0][2]

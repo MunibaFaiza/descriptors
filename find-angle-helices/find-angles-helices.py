@@ -18,6 +18,11 @@ import io
 from contextlib import redirect_stdout
 
 
+'''
+This script finds angles between helices (PDB files).
+
+'''
+
 pdb_path = os.getcwd()+"/../step2-convert-dssp-to-pdb/output"
 
 pdb_folder_list = os.listdir(pdb_path)
@@ -62,7 +67,7 @@ for dssp_folder in pdb_folder_list:
             pymol.cmd.load(helix1_path)
             pymol.cmd.load(helix2_path)
             pymol.cmd.disable("all")
-    # pymol.cmd.do("angle_between_helices resi 256-274,resi 297-301")
+
 
             f = io.StringIO()
             with redirect_stdout(f):

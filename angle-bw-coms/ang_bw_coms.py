@@ -24,8 +24,6 @@ pdb_path = os.getcwd()+"/../step2-convert-dssp-to-pdb/output"
 
 pdb_folder_list = os.listdir(pdb_path)
 
-# pymol.cmd.run("anglebetweenhelices.py")
-
 
 file1 = open("result.tsv", "a")  # append mode
 file1.write("H1\tH2\tH3\tAngle\r\n")
@@ -46,8 +44,7 @@ for dssp_folder in pdb_folder_list:
 
         
         for next_helix in helix_list:
-            # # print("File number is ", file_number)
-
+            
             try:
                 helix2_path = os.path.join(os.getcwd()+"/../step2-convert-dssp-to-pdb/output/"+dssp_folder+"/"+next_helix)
                 
@@ -70,22 +67,19 @@ for dssp_folder in pdb_folder_list:
                         pymol.cmd.do("centerofmass H1",0,0)
                     out = f.getvalue()
                     out1 = out.replace("Center of Mass:","")
-                    # print(out1)
-
+                    
                     g = io.StringIO()
                     with redirect_stdout(g):
                         pymol.cmd.do("centerofmass H2",0,0)
                     output = g.getvalue()
                     out2 = output.replace("Center of Mass:","")
-                    # print(out2)
-
+                    
                     h = io.StringIO()
                     with redirect_stdout(h):
                         pymol.cmd.do("centerofmass H3",0,0)
                     out_put = h.getvalue()
                     out3 = out_put.replace("Center of Mass:","")
-                    # print(out3)
-
+                    
                     pymol.cmd.do("pseudoatom c1, pos="+out1+"")
                     pymol.cmd.do("pseudoatom c2, pos="+out2+"")
                     pymol.cmd.do("pseudoatom c3, pos="+out3+"")
@@ -95,7 +89,7 @@ for dssp_folder in pdb_folder_list:
                     with redirect_stdout(k):
                         pymol.cmd.do("get_angle c1, c2, c3",0,0)
                     out4 = k.getvalue()
-                    #out_ps1 = out4.replace("ObjMol: created","")
+                    
                     print(out4.replace("cmd.get_angle: ","").replace("degrees.",""))
 
 

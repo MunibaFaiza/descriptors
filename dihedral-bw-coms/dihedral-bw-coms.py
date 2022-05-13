@@ -24,8 +24,6 @@ pdb_path = os.getcwd()+"/../step2-convert-dssp-to-pdb/output"
 
 pdb_folder_list = os.listdir(pdb_path)
 
-# pymol.cmd.run("anglebetweenhelices.py")
-
 
 file1 = open("result.tsv", "a")  # append mode
 file1.write("H1\tH2\tH3\tH4\tAngle\r\n")
@@ -46,8 +44,7 @@ for dssp_folder in pdb_folder_list:
 
         j = 0
         for next_helix in helix_list:
-            # # print("File number is ", file_number)
-
+            
             try:
                 helix2_path = os.path.join(os.getcwd()+"/../step2-convert-dssp-to-pdb/output/"+dssp_folder+"/"+helix_list[j])
                 helix3_path = os.path.join(os.getcwd()+"/../step2-convert-dssp-to-pdb/output/"+dssp_folder+"/"+helix_list[j+1])
@@ -68,28 +65,28 @@ for dssp_folder in pdb_folder_list:
                     pymol.cmd.do("centerofmass H1",0,0)
                 out = f.getvalue()
                 out1 = out.replace("Center of Mass:","")
-                # print(out1)
+                
 
                 g = io.StringIO()
                 with redirect_stdout(g):
                     pymol.cmd.do("centerofmass H2",0,0)
                 output = g.getvalue()
                 out2 = output.replace("Center of Mass:","")
-                # print(out2)
+                
 
                 h = io.StringIO()
                 with redirect_stdout(h):
                     pymol.cmd.do("centerofmass H3",0,0)
                 out_put = h.getvalue()
                 out3 = out_put.replace("Center of Mass:","")
-                # print(out3)
+                
 
                 m = io.StringIO()
                 with redirect_stdout(m):
                     pymol.cmd.do("centerofmass H4",0,0)
                 out_put = m.getvalue()
                 out4 = out_put.replace("Center of Mass:","")
-                # print(out4)
+                
 
                 pymol.cmd.do("pseudoatom c1, pos="+out1+"")
                 pymol.cmd.do("pseudoatom c2, pos="+out2+"")
@@ -125,12 +122,3 @@ for dssp_folder in pdb_folder_list:
                 
 
 file1.close()
-"""
-helix_path = os.getcwd()+"selected_helices"
-helix_files = os.listdir(helix_path)
-
-for helix in helix_files:
-
-    file_name = os.path.splitext(helix)
-    fname = file_name[0]"""
-
