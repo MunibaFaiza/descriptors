@@ -55,7 +55,7 @@ for dssp_folder in pdb_folder_list:
                     helix3_path = os.path.join(os.getcwd()+"/../step2-convert-dssp-to-pdb/output/"+dssp_folder+"/"+third_helix)
                     j = j + 1
 
-                    pymol.cmd.run("center_of_mass.py")
+                    pymol.cmd.run("center_of_mass.py") #This is a Pymol script.
                     pymol.cmd.load(helix1_path, "H1")
                     pymol.cmd.load(helix2_path, "H2")
                     pymol.cmd.load(helix3_path, "H3")
