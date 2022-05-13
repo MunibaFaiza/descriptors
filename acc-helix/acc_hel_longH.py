@@ -8,6 +8,11 @@ import sys
 import re
 import fnmatch
 
+'''
+This script calculates helix lenght in Angstroms.
+
+'''
+
 
 dssp_path = os.getcwd()+"/../helix-length/longH_output_pdb_files_ed"
 
