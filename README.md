@@ -7,6 +7,14 @@ Further, several operations including finding angles, dihedrals, distances, and 
 
 All the Python scripts are provided inside the folders along with their outputs.
 
+A few descriptors are calculated using Pymol (.pml) scripts.
+
+## Requirements
+
+You need to install Biopython. Use the following command:
+
+``` pip install biopython```
+
 ## Usage
 
 ```python3 <script_name.py>```

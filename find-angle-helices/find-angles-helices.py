@@ -27,7 +27,7 @@ pdb_path = os.getcwd()+"/../step2-convert-dssp-to-pdb/output"
 
 pdb_folder_list = os.listdir(pdb_path)
 
-pymol.cmd.run("anglebetweenhelices.py")
+pymol.cmd.run("anglebetweenhelices.py") #This is a Pymol script.
 
 
 for dssp_folder in pdb_folder_list:

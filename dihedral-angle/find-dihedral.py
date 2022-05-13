@@ -163,12 +163,7 @@ for dssp_folder in pdb_folder_list:
 
                 file_number = file_number + 1
 
-
-              
-         
                 
-
-
             except:
                
                 continue

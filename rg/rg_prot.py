@@ -25,6 +25,9 @@ for pdb_file in pdb_files:
             for line in Structure:
                 try:
                     line = line.split()
+                    # Following code is adapted from https://github.com/sarisabban/Rg/
+                    # Copyright (c) 2017 Sari Sabban
+                    
                     x = float(line[6])
                     y = float(line[7])
                     z = float(line[8])
@@ -47,4 +50,5 @@ for pdb_file in pdb_files:
             mm = sum((sum(i) / tmass)**2 for i in zip(*xm))
             rg = math.sqrt(rr / tmass-mm)
             Rg = round(rg,3)
+            #end https://github.com/sarisabban/Rg/
             print (Rg, '\n', file=rg_file)
