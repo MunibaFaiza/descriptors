@@ -19,6 +19,7 @@ for dssp in dssp_files:
 
             print('\n\n', dssp, ':', file=sse_file)
 
+            # Following code is adapted from 
             dssp_lines = [line.rstrip() for line in dssp_file]
 
             resamount = len(dssp_lines)-28
