@@ -18,11 +18,6 @@ import io
 from contextlib import redirect_stdout
 
 
-'''
-This script finds angles between helices (PDB files).
-
-'''
-
 pdb_path = os.getcwd()+"/../step2-convert-dssp-to-pdb/output"
 
 pdb_folder_list = os.listdir(pdb_path)

@@ -18,7 +18,6 @@ input_path = os.getcwd()+"/../original-data/dssp_files_for_step_1/"
 #read all filenames in the dir
 
 file_list = os.listdir(input_path)
-#print(file_list)
 
 output_path = os.getcwd()+"/output"
 
@@ -34,7 +33,7 @@ matches = ["H  >", "H  <", "H  3>", "H  3<", "H  4", "H  X", "H >", "H 3", "H <"
 short_matches = ["G 3", "G 4", "G X","G >", "G <", "G  3", "G  X","G  >", "G  <", "G  4"]
 
 
-# read all files in file list and for every file  do this:
+# read all files in file list and for every file do this:
 for file_name in file_list:
 
 
@@ -53,7 +52,6 @@ for file_name in file_list:
 
 			last_line_matched = 0
 
-			# long helix
 			for line in src_file:
 					
 					set_line_header = ''
@@ -79,11 +77,7 @@ for file_name in file_list:
 							filecounter +=1
 							set_line_header = line_header
 
-						#os.makedirs(os.path.join(mypath, fname+"_H"), 0o777, exist_ok=True)
-						#os.chdir(os.path.join(mypath, fname+"_H"))
-
-						#dir_empty(output_path)
-						
+							
 						os.chdir(os.path.join(output_path, file_name))
 						if match_type == 1:
 							prefix = "_H_"

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
-#
-#   this file takes output files from step 1 and creates pdb files in the 
-#
-#
+'''
+  this file takes output files from step 1 and creates pdb files in the output directory.
+'''
+
 import os
 import os.path
 import pathlib
