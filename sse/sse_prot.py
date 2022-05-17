@@ -19,7 +19,7 @@ for dssp in dssp_files:
 
             print('\n\n', dssp, ':', file=sse_file)
 
-            # Following code is adapted from 
+
             dssp_lines = [line.rstrip() for line in dssp_file]
 
             resamount = len(dssp_lines)-28
@@ -30,7 +30,10 @@ for dssp in dssp_files:
             for line in range(28, len(dssp_lines)):
                 if dssp_lines[line][16] in dssp_structures:
                     sses.append(dssp_lines[line][16])
-
+           
+            # Following code is adapted from https://github.com/GlukhovIgor/Descriptors_package
+            # Copyright (c) 2021 Igor Glukhov
+           
             H = sses.count('H')/resamount*100
             B = sses.count('B')/resamount*100
             E = sses.count('E')/resamount*100
@@ -39,6 +42,8 @@ for dssp in dssp_files:
             T = sses.count('T')/resamount*100
             S = sses.count('S')/resamount*100
             O = (resamount - len(sses))/resamount*100
+
+            # end https://github.com/GlukhovIgor/Descriptors_package
 
             print('====Calculating the number of residues forming the secondary structures for', dssp, '====')
 
